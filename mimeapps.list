@@ -1,0 +1,5 @@
+[Default Applications]
+text/markdown=nvim.desktop
+
+[Added Associations]
+text/markdown=nvim.desktop;

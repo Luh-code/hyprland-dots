@@ -1,0 +1,13 @@
+2023/05/01-20:37:47.202 10d0e Reusing MANIFEST /home/luh/.config/Pulsar/Local Storage/leveldb/MANIFEST-000001
+2023/05/01-20:41:44.411 10cf4 Level-0 table #5: started
+2023/05/01-20:41:44.415 10cf4 Level-0 table #5: 93379 bytes OK
+2023/05/01-20:41:44.417 10cf4 Delete type=0 #3
+2023/05/01-20:41:55.411 10d0e Level-0 table #7: started
+2023/05/01-20:41:55.416 10d0e Level-0 table #7: 96714 bytes OK
+2023/05/01-20:41:55.418 10d0e Delete type=0 #4
+2023/05/01-20:52:23.377 10cf4 Level-0 table #9: started
+2023/05/01-20:52:23.381 10cf4 Level-0 table #9: 102731 bytes OK
+2023/05/01-20:52:23.383 10cf4 Delete type=0 #6
+2023/05/01-20:53:41.011 10d0e Level-0 table #11: started
+2023/05/01-20:53:41.014 10d0e Level-0 table #11: 64419 bytes OK
+2023/05/01-20:53:41.017 10d0e Delete type=0 #8
