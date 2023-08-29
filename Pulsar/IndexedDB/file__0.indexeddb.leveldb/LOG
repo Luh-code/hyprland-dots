@@ -1,3 +1,36 @@
-2023/05/01-20:59:54.425 19f37 Reusing MANIFEST /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
-2023/05/01-20:59:54.426 19f37 Recovering log #3
-2023/05/01-20:59:54.432 19f37 Reusing old log /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2023/05/22-16:12:12.065 169b Reusing MANIFEST /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-16:12:12.065 169b Recovering log #14
+2023/05/22-16:12:12.067 169b Reusing old log /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/000014.log 
+2023/05/22-16:41:45.314 97f2 Compacting 1@1 + 1@2 files
+2023/05/22-16:41:45.322 97f2 Generated table #17@1: 54 keys, 23278 bytes
+2023/05/22-16:41:45.322 97f2 Compacted 1@1 + 1@2 files => 23278 bytes
+2023/05/22-16:41:45.324 97f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/22-16:41:45.324 97f2 Delete type=2 #15
+2023/05/22-16:41:45.324 97f2 Delete type=2 #12
+2023/05/22-19:01:51.668 d132 Level-0 table #19: started
+2023/05/22-19:01:51.694 d132 Level-0 table #19: 2115289 bytes OK
+2023/05/22-19:01:51.696 d132 Delete type=0 #14
+2023/05/22-21:02:15.614 eef4 Compacting 1@1 + 1@2 files
+2023/05/22-21:02:15.626 eef4 Generated table #20@1: 58 keys, 31324 bytes
+2023/05/22-21:02:15.626 eef4 Compacted 1@1 + 1@2 files => 31324 bytes
+2023/05/22-21:02:15.629 eef4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/22-21:02:15.629 eef4 Delete type=2 #19
+2023/05/22-21:02:15.629 eef4 Delete type=2 #17
+2023/05/22-21:06:21.313 efbf Level-0 table #22: started
+2023/05/22-21:06:21.369 efbf Level-0 table #22: 1748552 bytes OK
+2023/05/22-21:06:21.371 efbf Delete type=0 #18
+2023/05/22-21:33:17.792 efbf Compacting 1@1 + 1@2 files
+2023/05/22-21:33:17.797 efbf Generated table #23@1: 58 keys, 32823 bytes
+2023/05/22-21:33:17.797 efbf Compacted 1@1 + 1@2 files => 32823 bytes
+2023/05/22-21:33:17.799 efbf compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/22-21:33:17.799 efbf Delete type=2 #20
+2023/05/22-21:33:17.799 efbf Delete type=2 #22
+2023/05/22-21:51:44.753 106b2 Level-0 table #25: started
+2023/05/22-21:51:44.768 106b2 Level-0 table #25: 1801515 bytes OK
+2023/05/22-21:51:44.770 106b2 Delete type=0 #21
+2023/05/22-22:02:44.700 106b2 Compacting 1@1 + 1@2 files
+2023/05/22-22:02:44.710 106b2 Generated table #26@1: 58 keys, 32270 bytes
+2023/05/22-22:02:44.710 106b2 Compacted 1@1 + 1@2 files => 32270 bytes
+2023/05/22-22:02:44.712 106b2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/22-22:02:44.713 106b2 Delete type=2 #25
+2023/05/22-22:02:44.713 106b2 Delete type=2 #23

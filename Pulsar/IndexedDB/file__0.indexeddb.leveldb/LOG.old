@@ -1,1 +1,3 @@
-2023/05/01-20:37:51.446 10d09 Reusing MANIFEST /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-16:12:05.662 1598 Reusing MANIFEST /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/05/22-16:12:05.663 1598 Recovering log #14
+2023/05/22-16:12:05.665 1598 Reusing old log /home/luh/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/000014.log 

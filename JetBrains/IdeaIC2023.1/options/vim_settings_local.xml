@@ -1,0 +1,88 @@
+<application>
+  <component name="VimJumpsSettings">
+    <jump line="39" column="66" filename="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/shader/Shader.java" />
+    <jump line="67" column="28" filename="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/RenderSystem.java" />
+    <jump line="59" column="54" filename="/media/para/Projects/triolingo/build.gradle" />
+    <jump line="11" column="1" filename="/media/para/Projects/leEngine/javaengine/src/main/resources/shader/testShader.vert" />
+    <jump line="11" column="0" filename="/media/para/Projects/leEngine/javaengine/src/main/resources/shader/testShader.frag" />
+    <jump line="0" column="0" filename="/media/para/Projects/leEngine/javaengine/settings.gradle" />
+    <jump line="130" column="18" filename="/media/para/Projects/leEngine/javaengine/build.gradle" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/.jdks/corretto-17.0.7/lib/src.zip!/java.base/java/lang/reflect/Constructor.java" timestamp="1686914200431">
+        <mark key="&quot;" line="205" column="7" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/GLManager.java" timestamp="1686914200415">
+        <mark key="&quot;" line="88" column="89" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1686914285890">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/shader/ShaderProgram.java" timestamp="1686914200409">
+        <mark key="&quot;" line="60" column="12" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/resources/shader/testShader.frag" timestamp="1686914200404">
+        <mark key="&quot;" line="11" column="0" />
+      </file>
+      <file name="/media/para/Projects/triolingo/build.gradle" timestamp="1686914233469">
+        <mark key="&quot;" line="59" column="54" />
+      </file>
+      <file name="$USER_HOME$/.jdks/corretto-17.0.7/lib/src.zip!/java.base/java/lang/Class.java" timestamp="1686914287639">
+        <mark key="&quot;" line="2053" column="28" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/window/WindowManager.java" timestamp="1686914200406">
+        <mark key="&quot;" line="206" column="62" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/Vertex.java" timestamp="1686914200397">
+        <mark key="&quot;" line="6" column="21" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/build.gradle" timestamp="1686914300331">
+        <mark key="&quot;" line="130" column="18" />
+        <mark key="[" line="0" column="34" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/Mesh.java" timestamp="1686914200419">
+        <mark key="&quot;" line="31" column="0" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/ecs/System.java" timestamp="1686914200424">
+        <mark key="&quot;" line="5" column="13" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/shader/ShaderType.java" timestamp="1686914200380">
+        <mark key="&quot;" line="7" column="50" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/Material.java" timestamp="1686914200371">
+        <mark key="&quot;" line="13" column="35" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/ecs/ECS.java" timestamp="1686914200427">
+        <mark key="&quot;" line="437" column="25" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/data/shader/Shader.java" timestamp="1686914200389">
+        <mark key="&quot;" line="31" column="3" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/RenderSystem.java" timestamp="1686914200347">
+        <mark key="&quot;" line="67" column="28" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/resources/shader/testShader.vert" timestamp="1686914200403">
+        <mark key="&quot;" line="11" column="1" />
+      </file>
+      <file name="/media/para/Projects/leEngine/javaengine/src/main/java/org/app/core/RenderingTest.java" timestamp="1686914200394">
+        <mark key="&quot;" line="37" column="38" />
+      </file>
+      <file name="/fragment.java" timestamp="1686914285892">
+        <mark key="&quot;" line="0" column="26" />
+        <mark key="[" line="0" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers />
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

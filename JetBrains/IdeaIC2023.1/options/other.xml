@@ -1,0 +1,112 @@
+<application>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,LogFileEditorProvider&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 17.0.7" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-17.0.7" />
+        <option name="sha256" value="8d23e0f1249f2852caa76b7ae8770847e005e4310a70a46b7c1a816c34ff9195" />
+        <option name="url" value="https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-linux-x64.tar.gz" />
+        <option name="versionText" value="17.0.7" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "BuildView.Splitter.Proportion": "0.05615194",
+    "CWM_LOGGING_VERSION": "1",
+    "FindSplitterProportion": "0.32972974",
+    "InstalledPluginsSearchHistory": "Gradle\nMaterial\nmat\nmate\nmater",
+    "MarketplacePluginsSearchHistory": "Minimap\nMap\nGradle\nGradöe\nMater",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NewProjectWizard.gitState": "false",
+    "NewProjectWizard.gradleDslState": "GROOVY",
+    "NewProjectWizard.groupIdState": "org.example",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "IC-231.9011.34-d7455c5855248fc53613e9901d9d28ab33353fc79d2c0e01ba5a5bacff6a8aa0",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-231.9011.34",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Gradle",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Dependencies",
+    "debugger.smart.chooser.counter": "3",
+    "defaultJdkConfigured": "true",
+    "experimental.ui.first.promotion.localdate": "2023-05-06",
+    "experimental.ui.used.once": "true",
+    "file.gist.reindex.count": "36",
+    "fileTypeChangedCounter": "8",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-231.9011.34",
+    "ide.memory.adjusted": "true",
+    "ide.updates.previous.build.number": "IC-231.9011.34",
+    "ideavim.statistics.timestamp": "1686907065562",
+    "input.method.disabler.muted": "true",
+    "installed.kotlin.plugin.version": "231-1.8.21-IJ9011.34",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "kotlin.lastUpdateCheck": "1684765577044",
+    "last_opened_file_path": "/media/para/Projects/leEngine",
+    "log.file.format.editor.notification.disabled": "true",
+    "migrate.android.sdk.path.to.roamable.storage": "false",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "mt.showStatisticsAgreement": "true",
+    "previousColorScheme": "_@user_Material Oceanic",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IC-231.9011.34",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/media/para/Projects/leEngine/javaengine",
+      "/media/para/Projects/triolingo",
+      "/media/para/Projects/leEngine",
+      "/media/para/Projects"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "IntroduceVariable": 1686859168366,
+    "Rename": 1684773705792,
+    "CtrlW": 1687593049608,
+    "SpeedSearch": 1685349099459,
+    "FocusProjectToolWindow": 1687825998887,
+    "QuickJavaDoc": 1686984260439,
+    "SearchEverywhere": 1685112400348,
+    "RecentFiles": 1686762929973,
+    "EvaluateExpression": 1686263239222,
+    "CommentCode": 1686493372843,
+    "FindReplaceToggle": 1685349116739,
+    "SurroundWith": 1686157483475,
+    "ShowUsages": 1687678925363,
+    "FileStructurePopup": 1687786094684,
+    "VcsQuickList": 1686239877452,
+    "CtrlD": 1686906955332,
+    "FindInPath": 1687191864065,
+    "CompleteStatement": 1686001219164
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="javaengine-history" project-path="/media/para/Projects/leEngine/javaengine" last-access-time="1687826006647" />
+    </command-history-files>
+  </component>
+</application>

@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.1920.1080" x="699" y="205" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1211" height="356" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1211" height="356" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1211" height="356" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1211" height="356" />
+    <size key="find.popup.0.0.1920.1080" width="627" height="849" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="912" height="325" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="912" height="325" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="912" height="325" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="912" height="325" />
+  </component>
+  <component name="WindowManager">
+    <frame x="6" y="48" width="1908" height="1026" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="289" width="424" height="454" key="FileChooserDialogImpl" timestamp="1683359728096">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="289" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080/1921.0.1920.1080" timestamp="1683359728096" />
+    <state x="1229" y="598" width="479" height="155" key="ProcessPopupWindow" timestamp="1686986075277">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1229" y="598" width="479" height="155" key="ProcessPopupWindow/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1686986075277" />
+    <state width="519" height="207" key="ShowUsagesActions.dimensionServiceKey" timestamp="1687627791719">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="519" height="207" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080/1921.0.1920.1080" timestamp="1687627791719" />
+    <state width="519" height="111" key="ShowUsagesActions.dimensionServiceKey/1921.0.1920.1080/0.0.1920.1080" timestamp="1686990019462" />
+    <state x="960" y="1386" width="1908" height="1026" key="WELCOME_SCREEN" timestamp="1683359756741">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="1386" width="1908" height="1026" key="WELCOME_SCREEN/0.0.1920.1080/1921.0.1920.1080" timestamp="1683359756741" />
+    <state x="2481" y="231" width="800" height="748" key="new project wizard" timestamp="1684773696989">
+      <screen x="1921" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="231" key="new project wizard/0.0.1920.1080/1921.0.1920.1080" timestamp="1683359755315" />
+    <state x="2481" y="231" width="800" height="748" key="new project wizard/1921.0.1920.1080/0.0.1920.1080" timestamp="1684773696989" />
+  </component>
+</application>

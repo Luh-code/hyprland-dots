@@ -1,0 +1,13 @@
+{
+  "catppuccin": { "branch": "main", "commit": "233c4175780d9b4e39ae4fe4535c1e4c14bd76ed" },
+  "copilot.vim": { "branch": "release", "commit": "1358e8e45ecedc53daf971924a0541ddf6224faf" },
+  "gruvbox.nvim": { "branch": "main", "commit": "df149bccb19a02c5c2b9fa6ec0716f0c0487feb0" },
+  "kanagawa.nvim": { "branch": "master", "commit": "14a7524a8b259296713d4d77ef3c7f4dec501269" },
+  "lazy.nvim": { "branch": "main", "commit": "ae25448d39fb2bdc38a139339233270edec44484" },
+  "nightfox.nvim": { "branch": "main", "commit": "77aa7458d2b725c2d9ff55a18befe1b891ac473e" },
+  "nui.nvim": { "branch": "main", "commit": "d5a82aae64426a805e19d8ef5a379292f9dc55d3" },
+  "nvim-colorizer.lua": { "branch": "master", "commit": "dde3084106a70b9a79d48f426f6d6fec6fd203f7" },
+  "plenary.nvim": { "branch": "master", "commit": "499e0743cf5e8075cd32af68baa3946a1c76adf1" },
+  "undotree": { "branch": "master", "commit": "485f01efde4e22cb1ce547b9e8c9238f36566f21" },
+  "vim-startuptime": { "branch": "master", "commit": "454b3de856b7bd298700de33d79774ca9b9e3875" }
+}

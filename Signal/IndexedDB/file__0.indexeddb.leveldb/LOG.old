@@ -1,0 +1,7 @@
+2023/05/02-22:11:12.511 c85f Reusing MANIFEST /home/luh/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/05/02-22:11:12.511 c85f Recovering log #4
+2023/05/02-22:11:12.511 c85f Reusing old log /home/luh/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2023/05/02-22:11:13.184 c854 Level-0 table #8: started
+2023/05/02-22:11:13.186 c854 Level-0 table #8: 472 bytes OK
+2023/05/02-22:11:13.188 c854 Delete type=0 #4
+2023/05/02-22:11:13.188 c854 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

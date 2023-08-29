@@ -1,0 +1,92 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="app" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file>
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-147">
+              <caret line="59" column="54" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="59" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Gradle">
+      <summary usageCount="1" lastUsed="1685228498458" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="1" lastUsage="1685228498458" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///media/para/Projects/triolingo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33035713" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="2" show_stripe_button="false" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Statistic" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.3305" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <unified_weights bottom="0.3305" left="0.33035713" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="59" column="54" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="59" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

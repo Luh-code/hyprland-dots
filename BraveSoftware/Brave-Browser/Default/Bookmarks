@@ -1,0 +1,110 @@
+{
+   "checksum": "4f7380ab013bd58dd83233804594612c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13329943084000000",
+            "date_last_used": "0",
+            "guid": "5c2aa597-c4ca-4041-9b9a-cd30418400d6",
+            "id": "5",
+            "name": "MINT-Sommercamp – Schüler:innenforschungszentrum Mittelhessen",
+            "type": "url",
+            "url": "https://sfz-mittelhessen.de/mint-sommercamp-5/"
+         }, {
+            "date_added": "13330774589000000",
+            "date_last_used": "13332086764660047",
+            "guid": "2dc2a3c8-57aa-4fb4-88e2-ac6e23de597e",
+            "id": "6",
+            "name": "Luh-code (Luh)",
+            "type": "url",
+            "url": "https://github.com/Luh-code"
+         }, {
+            "date_added": "13331407888000000",
+            "date_last_used": "13332081641074156",
+            "guid": "a93f03da-64af-42f8-b887-59cefafb812a",
+            "id": "7",
+            "name": "LearnOpenGL",
+            "type": "url",
+            "url": "https://learnopengl.com/Getting-started/Textures"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13327431502000000",
+                  "date_last_used": "0",
+                  "guid": "ee00a95b-8c56-4a6c-898b-c3a1dc835194",
+                  "id": "10",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13327431502000000",
+                  "date_last_used": "0",
+                  "guid": "208e9ce2-acd1-4d9a-b0ee-da4c4acb311c",
+                  "id": "11",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13327431502000000",
+                  "date_last_used": "0",
+                  "guid": "b59b88b9-84bd-4ca3-bd41-51cffba67967",
+                  "id": "12",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13327431502000000",
+                  "date_last_used": "0",
+                  "guid": "08b903f6-ff63-45ca-9dba-89a2e6e834a6",
+                  "id": "13",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13332081595769219",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "6030d1b3-5392-4a31-b8cb-5fce10cd599d",
+               "id": "9",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            } ],
+            "date_added": "13332081595768984",
+            "date_last_used": "0",
+            "date_modified": "13332081595768984",
+            "guid": "ce142be8-c3bc-41dc-be70-897086873cc4",
+            "id": "8",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13332081586044462",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13332081586044464",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13332081586044468",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

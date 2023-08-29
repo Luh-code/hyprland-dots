@@ -1,0 +1,178 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="cwm://D:/IDE Projecks/Schach/src/gui/GameGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <marker date="0" expanded="true" signature="20:329" ph="..." />
+                <marker date="0" expanded="false" signature="521:532" ph=" { " />
+                <marker date="0" expanded="false" signature="546:552" ph=" }" />
+                <marker date="0" expanded="true" signature="575:648" ph="{...}" />
+                <marker date="0" expanded="true" signature="680:1415" ph="{...}" />
+                <marker date="0" expanded="true" signature="1469:5980" ph="{...}" />
+                <marker date="0" expanded="true" signature="1506:4345" ph="{...}" />
+                <marker date="0" expanded="true" signature="1623:4334" ph="{...}" />
+                <marker date="0" expanded="true" signature="1675:4320" ph="{...}" />
+                <marker date="0" expanded="true" signature="1830:1959" ph="{...}" />
+                <marker date="0" expanded="true" signature="1965:2098" ph="{...}" />
+                <marker date="0" expanded="true" signature="2297:2356" ph="{...}" />
+                <marker date="0" expanded="true" signature="2412:2503" ph="{...}" />
+                <marker date="0" expanded="true" signature="2509:2602" ph="{...}" />
+                <marker date="0" expanded="true" signature="2718:4227" ph="{...}" />
+                <marker date="0" expanded="true" signature="2890:2969" ph="{...}" />
+                <marker date="0" expanded="true" signature="2975:3054" ph="{...}" />
+                <marker date="0" expanded="true" signature="3130:3208" ph="{...}" />
+                <marker date="0" expanded="true" signature="3265:3343" ph="{...}" />
+                <marker date="0" expanded="true" signature="3399:3476" ph="{...}" />
+                <marker date="0" expanded="true" signature="3536:3617" ph="{...}" />
+                <marker date="0" expanded="true" signature="3675:3754" ph="{...}" />
+                <marker date="0" expanded="true" signature="3760:3837" ph="{...}" />
+                <marker date="0" expanded="true" signature="3911:4092" ph="{...}" />
+                <marker date="0" expanded="true" signature="4233:4302" ph="{...}" />
+                <marker date="0" expanded="true" signature="4398:5974" ph="{...}" />
+                <marker date="0" expanded="true" signature="4685:4745" ph="{...}" />
+                <marker date="0" expanded="true" signature="4924:5882" ph="{...}" />
+                <marker date="0" expanded="true" signature="5138:5206" ph="{...}" />
+                <marker date="0" expanded="true" signature="5421:5868" ph="{...}" />
+                <marker date="0" expanded="true" signature="5560:5773" ph="{...}" />
+                <marker date="0" expanded="true" signature="5908:5963" ph="{...}" />
+                <marker date="0" expanded="true" signature="6026:9167" ph="{...}" />
+                <marker date="0" expanded="false" signature="6186:6201" ph=" { " />
+                <marker date="0" expanded="false" signature="6219:6229" ph=" }" />
+                <marker date="0" expanded="true" signature="6277:9161" ph="{...}" />
+                <marker date="0" expanded="true" signature="6432:9151" ph="{...}" />
+                <marker date="0" expanded="true" signature="6484:9136" ph="{...}" />
+                <marker date="0" expanded="true" signature="6903:6978" ph="{...}" />
+                <marker date="0" expanded="true" signature="6984:7063" ph="{...}" />
+                <marker date="0" expanded="true" signature="7110:8625" ph="{...}" />
+                <marker date="0" expanded="true" signature="7283:7361" ph="{...}" />
+                <marker date="0" expanded="true" signature="7367:7448" ph="{...}" />
+                <marker date="0" expanded="true" signature="7525:7602" ph="{...}" />
+                <marker date="0" expanded="true" signature="7660:7738" ph="{...}" />
+                <marker date="0" expanded="true" signature="7795:7872" ph="{...}" />
+                <marker date="0" expanded="true" signature="7933:8014" ph="{...}" />
+                <marker date="0" expanded="true" signature="8073:8152" ph="{...}" />
+                <marker date="0" expanded="true" signature="8158:8235" ph="{...}" />
+                <marker date="0" expanded="true" signature="8309:8490" ph="{...}" />
+                <marker date="0" expanded="true" signature="8631:8700" ph="{...}" />
+                <marker date="0" expanded="true" signature="8748:8839" ph="{...}" />
+                <marker date="0" expanded="true" signature="8845:8938" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="null: ROOT" type="594777b1:ThinClientProjectViewNode" />
+              <item name="1: Schach" type="594777b1:ThinClientProjectViewNode" />
+            </path>
+            <path>
+              <item name="null: ROOT" type="594777b1:ThinClientProjectViewNode" />
+              <item name="1: Schach" type="594777b1:ThinClientProjectViewNode" />
+              <item name="5: src" type="594777b1:ThinClientProjectViewNode" />
+            </path>
+            <path>
+              <item name="null: ROOT" type="594777b1:ThinClientProjectViewNode" />
+              <item name="1: Schach" type="594777b1:ThinClientProjectViewNode" />
+              <item name="5: src" type="594777b1:ThinClientProjectViewNode" />
+              <item name="11: gui" type="594777b1:ThinClientProjectViewNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1627604" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Commit" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="right" id="Code With Me" order="3" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="editorHistoryManager">
+    <entry file="cwm://D:/IDE Projecks/Schach/src/gui/GameGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <marker date="0" expanded="true" signature="20:329" ph="..." />
+            <marker date="0" expanded="false" signature="521:532" ph=" { " />
+            <marker date="0" expanded="false" signature="546:552" ph=" }" />
+            <marker date="0" expanded="true" signature="575:648" ph="{...}" />
+            <marker date="0" expanded="true" signature="680:1415" ph="{...}" />
+            <marker date="0" expanded="true" signature="1469:5980" ph="{...}" />
+            <marker date="0" expanded="true" signature="1506:4345" ph="{...}" />
+            <marker date="0" expanded="true" signature="1623:4334" ph="{...}" />
+            <marker date="0" expanded="true" signature="1675:4320" ph="{...}" />
+            <marker date="0" expanded="true" signature="1830:1959" ph="{...}" />
+            <marker date="0" expanded="true" signature="1965:2098" ph="{...}" />
+            <marker date="0" expanded="true" signature="2297:2356" ph="{...}" />
+            <marker date="0" expanded="true" signature="2412:2503" ph="{...}" />
+            <marker date="0" expanded="true" signature="2509:2602" ph="{...}" />
+            <marker date="0" expanded="true" signature="2718:4227" ph="{...}" />
+            <marker date="0" expanded="true" signature="2890:2969" ph="{...}" />
+            <marker date="0" expanded="true" signature="2975:3054" ph="{...}" />
+            <marker date="0" expanded="true" signature="3130:3208" ph="{...}" />
+            <marker date="0" expanded="true" signature="3265:3343" ph="{...}" />
+            <marker date="0" expanded="true" signature="3399:3476" ph="{...}" />
+            <marker date="0" expanded="true" signature="3536:3617" ph="{...}" />
+            <marker date="0" expanded="true" signature="3675:3754" ph="{...}" />
+            <marker date="0" expanded="true" signature="3760:3837" ph="{...}" />
+            <marker date="0" expanded="true" signature="3911:4092" ph="{...}" />
+            <marker date="0" expanded="true" signature="4233:4302" ph="{...}" />
+            <marker date="0" expanded="true" signature="4398:5974" ph="{...}" />
+            <marker date="0" expanded="true" signature="4685:4745" ph="{...}" />
+            <marker date="0" expanded="true" signature="4924:5882" ph="{...}" />
+            <marker date="0" expanded="true" signature="5138:5206" ph="{...}" />
+            <marker date="0" expanded="true" signature="5421:5868" ph="{...}" />
+            <marker date="0" expanded="true" signature="5560:5773" ph="{...}" />
+            <marker date="0" expanded="true" signature="5908:5963" ph="{...}" />
+            <marker date="0" expanded="true" signature="6026:9167" ph="{...}" />
+            <marker date="0" expanded="false" signature="6186:6201" ph=" { " />
+            <marker date="0" expanded="false" signature="6219:6229" ph=" }" />
+            <marker date="0" expanded="true" signature="6277:9161" ph="{...}" />
+            <marker date="0" expanded="true" signature="6432:9151" ph="{...}" />
+            <marker date="0" expanded="true" signature="6484:9136" ph="{...}" />
+            <marker date="0" expanded="true" signature="6903:6978" ph="{...}" />
+            <marker date="0" expanded="true" signature="6984:7063" ph="{...}" />
+            <marker date="0" expanded="true" signature="7110:8625" ph="{...}" />
+            <marker date="0" expanded="true" signature="7283:7361" ph="{...}" />
+            <marker date="0" expanded="true" signature="7367:7448" ph="{...}" />
+            <marker date="0" expanded="true" signature="7525:7602" ph="{...}" />
+            <marker date="0" expanded="true" signature="7660:7738" ph="{...}" />
+            <marker date="0" expanded="true" signature="7795:7872" ph="{...}" />
+            <marker date="0" expanded="true" signature="7933:8014" ph="{...}" />
+            <marker date="0" expanded="true" signature="8073:8152" ph="{...}" />
+            <marker date="0" expanded="true" signature="8158:8235" ph="{...}" />
+            <marker date="0" expanded="true" signature="8309:8490" ph="{...}" />
+            <marker date="0" expanded="true" signature="8631:8700" ph="{...}" />
+            <marker date="0" expanded="true" signature="8748:8839" ph="{...}" />
+            <marker date="0" expanded="true" signature="8845:8938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

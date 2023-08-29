@@ -1,0 +1,8 @@
+2023/08/29-12:02:45.998 7db Reusing MANIFEST /home/luh/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/08/29-12:02:45.999 7db Recovering log #740
+2023/08/29-12:02:45.999 7db Level-0 table #744: started
+2023/08/29-12:02:46.002 7db Level-0 table #744: 29502 bytes OK
+2023/08/29-12:02:46.005 7db Delete type=0 #740
+2023/08/29-12:50:41.429 7dc Level-0 table #747: started
+2023/08/29-12:50:41.450 7dc Level-0 table #747: 1956525 bytes OK
+2023/08/29-12:50:41.452 7dc Delete type=0 #745

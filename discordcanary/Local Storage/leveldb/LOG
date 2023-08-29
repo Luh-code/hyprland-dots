@@ -1,0 +1,31 @@
+2023/05/27-16:20:57.695 3940 Reusing MANIFEST /home/luh/.config/discordcanary/Local Storage/leveldb/MANIFEST-000001
+2023/05/27-16:20:57.695 3940 Recovering log #7
+2023/05/27-16:20:57.698 3940 Level-0 table #10: started
+2023/05/27-16:20:57.709 3940 Level-0 table #10: 1626158 bytes OK
+2023/05/27-16:20:57.709 3940 Recovering log #9
+2023/05/27-16:20:57.709 3940 Reusing old log /home/luh/.config/discordcanary/Local Storage/leveldb/000009.log 
+2023/05/27-16:20:57.711 3940 Delete type=0 #7
+2023/05/27-20:30:58.358 485f Level-0 table #12: started
+2023/05/27-20:30:58.421 485f Level-0 table #12: 1649495 bytes OK
+2023/05/27-20:30:58.423 485f Delete type=0 #9
+2023/05/28-00:11:28.900 485f Level-0 table #14: started
+2023/05/28-00:11:28.902 485f Level-0 table #14: 24628 bytes OK
+2023/05/28-00:11:28.904 485f Delete type=0 #11
+2023/05/28-00:22:10.615 b3c1 Level-0 table #16: started
+2023/05/28-00:22:10.628 b3c1 Level-0 table #16: 1629021 bytes OK
+2023/05/28-00:22:10.630 b3c1 Delete type=0 #13
+2023/05/28-00:22:10.630 b3c1 Compacting 4@0 + 1@1 files
+2023/05/28-00:22:10.660 b3c1 Generated table #17@0: 17 keys, 1632786 bytes
+2023/05/28-00:22:10.660 b3c1 Compacted 4@0 + 1@1 files => 1632786 bytes
+2023/05/28-00:22:10.662 b3c1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/05/28-00:22:10.662 b3c1 Delete type=2 #14
+2023/05/28-00:22:10.662 b3c1 Delete type=2 #10
+2023/05/28-00:22:10.662 b3c1 Delete type=2 #8
+2023/05/28-00:22:10.662 b3c1 Delete type=2 #16
+2023/05/28-00:22:10.662 b3c1 Delete type=2 #12
+2023/05/28-01:10:10.635 b3c1 Level-0 table #19: started
+2023/05/28-01:10:10.639 b3c1 Level-0 table #19: 12936 bytes OK
+2023/05/28-01:10:10.641 b3c1 Delete type=0 #15
+2023/05/28-02:04:21.665 b3c1 Level-0 table #21: started
+2023/05/28-02:04:21.667 b3c1 Level-0 table #21: 11830 bytes OK
+2023/05/28-02:04:21.669 b3c1 Delete type=0 #18

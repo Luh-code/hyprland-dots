@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="/media/para/Projects/IdeaTestLinux" value="true" />
+        <entry key="/media/para/Projects/leEngine/javaengine" value="true" />
+        <entry key="/media/para/Projects/triolingo" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

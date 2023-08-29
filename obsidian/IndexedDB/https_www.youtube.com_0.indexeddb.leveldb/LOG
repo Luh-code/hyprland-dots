@@ -1,0 +1,20 @@
+2023/07/16-09:50:59.344 1e45 Creating DB /home/luh/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/07/16-09:50:59.349 1e45 Reusing MANIFEST /home/luh/.config/obsidian/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/07/16-09:51:00.205 1ea7 Level-0 table #5: started
+2023/07/16-09:51:00.208 1ea7 Level-0 table #5: 2470 bytes OK
+2023/07/16-09:51:00.211 1ea7 Delete type=0 #3
+2023/07/16-09:51:00.211 1ea7 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/16-09:51:00.214 1ea7 Level-0 table #7: started
+2023/07/16-09:51:00.217 1ea7 Level-0 table #7: 1683 bytes OK
+2023/07/16-09:51:00.220 1ea7 Delete type=0 #4
+2023/07/16-09:51:00.220 1ea7 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/07/16-09:51:00.226 1ea7 Level-0 table #9: started
+2023/07/16-09:51:00.227 1ea7 Level-0 table #9: 1528 bytes OK
+2023/07/16-09:51:00.230 1ea7 Delete type=0 #6
+2023/07/16-09:51:00.230 1e44 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 270 : 1
+2023/07/16-09:51:00.230 1e44 Compacting 1@0 + 1@1 files
+2023/07/16-09:51:00.232 1e44 Generated table #10@0: 63 keys, 1082 bytes
+2023/07/16-09:51:00.232 1e44 Compacted 1@0 + 1@1 files => 1082 bytes
+2023/07/16-09:51:00.233 1e44 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/16-09:51:00.233 1e44 Delete type=2 #9
+2023/07/16-09:51:00.233 1e44 Manual compaction at level-0 from '\x00\x04\x00\x00\xc8\x11\x00L\x00o\x00g\x00s\x00R\x00e\x00q\x00u\x00e\x00s\x00t\x00s\x00S\x00t\x00o\x00r\x00e' @ 270 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

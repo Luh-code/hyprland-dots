@@ -1,0 +1,13 @@
+2023/06/09-12:40:31.899 562f Reusing MANIFEST /home/luh/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/06/09-12:40:31.899 562f Recovering log #7
+2023/06/09-12:40:31.899 562f Reusing old log /home/luh/.config/Signal/IndexedDB/file__0.indexeddb.leveldb/000007.log 
+2023/06/09-12:40:31.906 565b Level-0 table #11: started
+2023/06/09-12:40:31.907 565b Level-0 table #11: 485 bytes OK
+2023/06/09-12:40:31.909 565b Delete type=0 #7
+2023/06/09-12:40:31.909 562e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 46 : 1
+2023/06/09-12:40:31.909 562e Compacting 1@0 + 1@1 files
+2023/06/09-12:40:31.911 562e Generated table #12@0: 8 keys, 377 bytes
+2023/06/09-12:40:31.911 562e Compacted 1@0 + 1@1 files => 377 bytes
+2023/06/09-12:40:31.913 562e compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/09-12:40:31.913 562e Delete type=2 #11
+2023/06/09-12:40:31.913 562e Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 46 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

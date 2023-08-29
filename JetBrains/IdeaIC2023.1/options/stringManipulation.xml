@@ -1,0 +1,11 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="lastActionModel">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.swap.SwapQuoteAction" />
+        <option name="description" value="" />
+        <option name="textWithMnemonic" value="Swap &quot; and '" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>

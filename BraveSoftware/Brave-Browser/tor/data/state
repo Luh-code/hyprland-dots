@@ -1,0 +1,31 @@
+# Tor state file last generated on 2023-06-26 02:00:26 local time
+# Other times below are in UTC
+# You *do not* need to edit this file.
+
+CircuitBuildTimeBin 565 1
+CircuitBuildTimeBin 645 1
+CircuitBuildTimeBin 1105 1
+Dormant 0
+Guard in=default rsa_id=986132ABB5D512FAF40E63775B6C07227A8A9CB6 nickname=chad2 sampled_on=2023-06-25T05:35:16 sampled_idx=0 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-06-16T02:25:53 confirmed_idx=0 pb_circ_attempts=2.000000 pb_circ_successes=1.000000 pb_successful_circuits_closed=1.000000
+Guard in=default rsa_id=20CE2A1A115C4D8E41EDB9075BBDF3B75F045E44 nickname=RWx1 sampled_on=2023-06-17T03:51:35 sampled_idx=1 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-06-21T06:55:17 confirmed_idx=2 pb_circ_attempts=2.000000 pb_circ_successes=2.000000 pb_successful_circuits_closed=2.000000
+Guard in=default rsa_id=D210BF09162062C05E931F71BAECD93DD9102F1C nickname=StopFossilFuels sampled_on=2023-06-25T17:29:59 sampled_idx=2 sampled_by=0.4.7.13 listed=1 confirmed_on=2023-06-25T09:23:12 confirmed_idx=1
+Guard in=default rsa_id=7C650612FD2A2423141F276351D0EF302030AB6C nickname=noury sampled_on=2023-06-18T08:09:03 sampled_idx=3 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=D130B7A9322906D397C9CB41BC21450D3D64B324 nickname=AugustTORRelay sampled_on=2023-06-24T10:10:04 sampled_idx=4 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=EC9621433DF2C996DE55A7063BAAFB2B71C3C01B nickname=zinho sampled_on=2023-06-17T17:26:06 sampled_idx=5 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=4EC300424B861C1E57C6A841FF6B82E647AF1EAC nickname=niralhiso sampled_on=2023-06-25T00:25:54 sampled_idx=6 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=4A4EFB3E9347189B6AB9453844692CCA1F46A4C7 nickname=netzwerkspaB sampled_on=2023-06-23T16:52:58 sampled_idx=7 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=C0E6A667064385B9CB5A685CEB06B85EDDA6AA00 nickname=FreedomForParrots2 sampled_on=2023-06-18T06:52:59 sampled_idx=8 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=E500B6579C9B37359B73B58C1EE3DEE92E9B4F33 nickname=sandman sampled_on=2023-06-18T22:06:04 sampled_idx=9 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=2CFFDEAEA997E741A7E850CDC9F1E9815DC36759 nickname=Computer0111 sampled_on=2023-06-23T23:23:28 sampled_idx=10 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=18474F89EC3E8ABE40148B424C8DD5399242CEC1 nickname=squid sampled_on=2023-06-14T02:06:39 sampled_idx=11 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=84B4BEB9020BFA625F3FFAF04E693E27CE886924 nickname=Unnamed sampled_on=2023-06-23T05:56:14 sampled_idx=12 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=408C9D2F1653D9EF3AF139C153CB27E8FFDB7612 nickname=muddybits sampled_on=2023-06-25T10:55:30 sampled_idx=13 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=5DA69B086B833FC1DFCF2D9C8B9C3B03137C7EFD nickname=prserver sampled_on=2023-06-21T11:34:15 sampled_idx=14 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=39F096961ED2576975C866D450373A9913AFDC92 nickname=shhovh sampled_on=2023-06-20T14:09:11 sampled_idx=15 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=50C35977E3E82C01129BB22CB6AB0D674773D584 nickname=ForPrivacyNET sampled_on=2023-06-14T04:28:32 sampled_idx=16 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=E4B0CAD11B5487C46293759A3D4B74484CF93509 nickname=fusion sampled_on=2023-06-16T14:49:33 sampled_idx=17 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=8128235ECB975FDA82ABBB16BCE438B49F819325 nickname=okeanosrelay2 sampled_on=2023-06-20T02:51:03 sampled_idx=18 sampled_by=0.4.7.13 listed=1
+Guard in=default rsa_id=89ECFA01219A76D222EDD68BF3EEB1DCC3A8D2B3 nickname=nitrogen9001 sampled_on=2023-06-18T18:00:01 sampled_idx=19 sampled_by=0.4.7.13 listed=1
+LastWritten 2023-06-26 00:00:26
+TorVersion Tor 0.4.7.13
+TotalBuildTimes 3

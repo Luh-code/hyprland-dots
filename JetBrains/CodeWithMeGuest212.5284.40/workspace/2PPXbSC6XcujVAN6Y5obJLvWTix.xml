@@ -1,0 +1,162 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="IdeaTestLinux" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1684765175761" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1684765175764" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="IdeaTestLinux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///media/para/Projects/IdeaTestLinux}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="IdeaTestLinux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///media/para/Projects/IdeaTestLinux}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///media/para/Projects/IdeaTestLinux/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17374215" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="DB Browser" order="2" show_stripe_button="false" />
+      <window_info id="JRebel" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info id="Structure" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="JRebel Console" order="4" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.31725147" />
+      <window_info anchor="bottom" id="Statistic" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" side_tool="true" weight="0.3299266" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="5" side_tool="true" visible="true" weight="0.3299266" />
+      <unified_weights bottom="0.31725147" left="0.17374215" right="0.3299266" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Meet New UI</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="334" key="FileChooserDialogImpl" timestamp="1684765266422">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="334" key="FileChooserDialogImpl/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765266422" />
+    <state width="1826" height="283" key="GridCell.Tab.0.bottom" timestamp="1684765305359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080/1921.0.1920.1080@0.0.1920.1080" timestamp="1683370167378" />
+    <state width="1826" height="283" key="GridCell.Tab.0.bottom/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765305359" />
+    <state width="1826" height="283" key="GridCell.Tab.0.center" timestamp="1684765305358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="296" key="GridCell.Tab.0.center/0.0.1920.1080/1921.0.1920.1080@0.0.1920.1080" timestamp="1683370167377" />
+    <state width="1826" height="283" key="GridCell.Tab.0.center/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765305358" />
+    <state width="1826" height="283" key="GridCell.Tab.0.left" timestamp="1684765305357">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="296" key="GridCell.Tab.0.left/0.0.1920.1080/1921.0.1920.1080@0.0.1920.1080" timestamp="1683370167377" />
+    <state width="1826" height="283" key="GridCell.Tab.0.left/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765305357" />
+    <state width="1826" height="283" key="GridCell.Tab.0.right" timestamp="1684765305359">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1826" height="296" key="GridCell.Tab.0.right/0.0.1920.1080/1921.0.1920.1080@0.0.1920.1080" timestamp="1683370167378" />
+    <state width="1826" height="283" key="GridCell.Tab.0.right/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765305359" />
+    <state x="454" y="211" key="SettingsEditor" timestamp="1684765208485">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="211" key="SettingsEditor/0.0.1920.1080/1921.0.1920.1080@0.0.1920.1080" timestamp="1683360723444" />
+    <state x="454" y="211" key="SettingsEditor/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765208485" />
+    <state x="560" y="187" width="800" height="748" key="new project wizard" timestamp="1684765302996">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="187" width="800" height="748" key="new project wizard/1921.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1684765302996" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

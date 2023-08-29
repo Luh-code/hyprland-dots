@@ -1,0 +1,19 @@
+remote_id = '515781800'
+kb_layout_type = 'ISO'
+size = [
+    0,
+    0,
+    0,
+    0,
+]
+fav = []
+
+[options]
+remote-menubar-drag-right = '1.0'
+remote-menubar-drag-left = '0.0'
+wayland-restore-token = '92915953-4d5a-4522-915b-e93c92bb507c'
+
+[ui_flutter]
+wm_RemoteDesktop = '{"width":1920.0,"height":1080.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":true}'
+wm_Main = '{"width":948.0,"height":1026.0,"offsetWidth":0.0,"offsetHeight":0.0,"isMaximized":true}'
+peer-sorting = 'Remote ID'

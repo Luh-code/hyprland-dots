@@ -1,0 +1,12 @@
+{
+	"theme": "Material Behave.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+		"Rust",
+	],
+	"tab_size": 2,
+	"save_on_focus_lost": true,
+	"font_size": 10,
+	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+}

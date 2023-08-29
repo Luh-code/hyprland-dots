@@ -1,0 +1,35 @@
+[options]
+bestHwDecoders = '''
+{
+  "h264": {
+    "name": "h264",
+    "format": "H264",
+    "vendor": "OTHER",
+    "score": 94,
+    "hwdevice": "AV_HWDEVICE_TYPE_CUDA"
+  },
+  "h265": {
+    "name": "hevc",
+    "format": "H265",
+    "vendor": "OTHER",
+    "score": 95,
+    "hwdevice": "AV_HWDEVICE_TYPE_CUDA"
+  }
+}'''
+bestHwEncoders = '''
+{
+  "h264": {
+    "name": "h264_nvenc",
+    "format": "H264",
+    "vendor": "NVIDIA",
+    "score": 92,
+    "hwdevice": "AV_HWDEVICE_TYPE_NONE"
+  },
+  "h265": {
+    "name": "hevc_nvenc",
+    "format": "H265",
+    "vendor": "NVIDIA",
+    "score": 94,
+    "hwdevice": "AV_HWDEVICE_TYPE_NONE"
+  }
+}'''

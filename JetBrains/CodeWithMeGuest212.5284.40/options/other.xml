@@ -1,0 +1,105 @@
+<application>
+  <component name="FileEditorProviderManager">{
+  &quot;selectedProviders&quot;: {
+    &quot;text-editor,LogFileEditorProvider&quot;: &quot;text-editor&quot;
+  }
+}</component>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 17.0.7" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-17.0.7" />
+        <option name="sha256" value="8d23e0f1249f2852caa76b7ae8770847e005e4310a70a46b7c1a816c34ff9195" />
+        <option name="url" value="https://corretto.aws/downloads/resources/17.0.7.7.1/amazon-corretto-17.0.7.7.1-linux-x64.tar.gz" />
+        <option name="versionText" value="17.0.7" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;BuildView.Splitter.Proportion&quot;: &quot;0.48466256&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.32972974&quot;,
+    &quot;InstalledPluginsSearchHistory&quot;: &quot;mat\nmate\nmater\nma\njre&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;ANSI\nANSO\nANS\nnotebook\nnotebool&quot;,
+    &quot;MemberChooser.copyJavadoc&quot;: &quot;false&quot;,
+    &quot;MemberChooser.showClasses&quot;: &quot;true&quot;,
+    &quot;NewProjectWizard.gitState&quot;: &quot;false&quot;,
+    &quot;NewProjectWizard.gradleDslState&quot;: &quot;GROOVY&quot;,
+    &quot;NewProjectWizard.groupIdState&quot;: &quot;org.example&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;IC-231.9011.34-2a99dd1875f7d1b97d32d42cb43d91141db6d89bab669f6a6e80fe652afb5126&quot;,
+    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.Sync.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;build.toolwindow.run.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;IC-231.9011.34&quot;,
+    &quot;com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep&quot;: &quot;Gradle&quot;,
+    &quot;com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep&quot;: &quot;Java&quot;,
+    &quot;com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor&quot;: &quot;Dependencies&quot;,
+    &quot;debugger.smart.chooser.counter&quot;: &quot;2&quot;,
+    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
+    &quot;experimental.ui.first.promotion.localdate&quot;: &quot;2023-05-06&quot;,
+    &quot;experimental.ui.used.once&quot;: &quot;true&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;26&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;3&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;12.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;12.0&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;IC-231.9011.34&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;installed.kotlin.plugin.version&quot;: &quot;231-1.8.21-release-380-IJ9011.34&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-17&quot;,
+    &quot;kotlin.lastUpdateCheck&quot;: &quot;1684765577044&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/media/para/Projects/leEngine&quot;,
+    &quot;log.file.format.editor.notification.disabled&quot;: &quot;true&quot;,
+    &quot;migrate.android.sdk.path.to.roamable.storage&quot;: &quot;false&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;mt.showStatisticsAgreement&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Material Oceanic&quot;,
+    &quot;project.wizard.group&quot;: &quot;NPW.simple-project&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IC-231.9011.34&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/media/para/Projects/triolingo&quot;,
+      &quot;/media/para/Projects/leEngine&quot;,
+      &quot;/media/para/Projects&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector&quot;,
+      &quot;com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "Rename": 1684773705792,
+    "CtrlW": 1686001220690,
+    "SpeedSearch": 1685349099459,
+    "FocusProjectToolWindow": 1686587618791,
+    "SearchEverywhere": 1685112400348,
+    "RecentFiles": 1686762929973,
+    "EvaluateExpression": 1686263239222,
+    "CommentCode": 1686493372843,
+    "FindReplaceToggle": 1685349116739,
+    "SurroundWith": 1686157483475,
+    "ShowUsages": 1686157485511,
+    "VcsQuickList": 1686239877452,
+    "FindInPath": 1685892681821,
+    "CompleteStatement": 1686001219164
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="javaengine-history" project-path="/media/para/Projects/leEngine/javaengine" last-access-time="1686762978620" />
+    </command-history-files>
+  </component>
+</application>

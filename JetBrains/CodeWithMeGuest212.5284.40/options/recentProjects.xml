@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="/media/para/Projects/IdeaTestLinux">
+          <value>
+            <RecentProjectMetaInfo frameTitle="IdeaTestLinux – Main.java" projectWorkspaceId="2PPXbSC6XcujVAN6Y5obJLvWTix">
+              <option name="activationTimestamp" value="1684765305411" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-231.8770.65" />
+              <option name="buildTimestamp" value="1682968531832" />
+              <frame x="6" y="48" width="1908" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1684765176373" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/para/Projects/triolingo">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2NY8vNKJrb24liliJGrSzcT1DbU">
+              <option name="activationTimestamp" value="1685228461537" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-231.9011.34" />
+              <option name="buildTimestamp" value="1684756773136" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1685228456648" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/light-edit">
+          <value>
+            <RecentProjectMetaInfo opened="true">
+              <option name="activationTimestamp" value="1686492942609" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="/media/para/Projects/leEngine/javaengine">
+          <value>
+            <RecentProjectMetaInfo frameTitle="javaengine – RenderingTest.java [javaengine.main]" opened="true" projectWorkspaceId="2Q9lV1lkrKsVYj9lqYj78ncYdV7">
+              <option name="activationTimestamp" value="1686764752078" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-231.9011.34" />
+              <option name="buildTimestamp" value="1684756756713" />
+              <frame x="6" y="48" width="1908" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1686762924077" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="/media/para/Projects/leEngine/javaengine" />
+    <option name="lastProjectLocation" value="/media/para/Projects/leEngine" />
+  </component>
+</application>

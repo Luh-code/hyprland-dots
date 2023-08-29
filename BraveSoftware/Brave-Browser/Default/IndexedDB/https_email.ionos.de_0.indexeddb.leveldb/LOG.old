@@ -1,0 +1,6 @@
+2023/06/26-00:32:32.864 120a Creating DB /home/luh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_email.ionos.de_0.indexeddb.leveldb since it was missing.
+2023/06/26-00:32:32.869 120a Reusing MANIFEST /home/luh/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_email.ionos.de_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/26-00:32:35.550 120a Level-0 table #5: started
+2023/06/26-00:32:35.553 120a Level-0 table #5: 18395 bytes OK
+2023/06/26-00:32:35.555 120a Delete type=0 #3
+2023/06/26-00:32:35.555 120a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,997 @@
+{
+	"file_history":
+	[
+		"/media/para/Projects/editor/src/window.rs",
+		"/media/para/Projects/editor/src/window/style.rs",
+		"/media/para/Projects/editor/src/plugins.rs",
+		"/media/para/Projects/editor/src/window/keybinds.rs",
+		"/media/para/Projects/editor/src/window/keybinds/input_manager.rs",
+		"/media/para/Projects/editor/src/window/main_window.rs",
+		"/media/para/Projects/editor/src/tests.rs",
+		"/media/para/Projects/editor/src/main.rs",
+		"/media/para/Projects/editor/src/plugins/module.rs",
+		"/media/para/Projects/editor/Cargo.toml",
+		"/media/para/Projects/editor/src/window/hotkeys/hotkey_manager.rs",
+		"/media/para/Projects/editor/src/window/window.rs",
+		"/media/para/Projects/editor/src/preset.rs",
+		"/media/para/Projects/editor/src/test.rs",
+		"/home/luh/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/luh/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/media/para/Projects/Editor/src/test.rs",
+		"/media/para/Projects/sublimeTest/Dominic system",
+		"/media/para/Projects/sublimeTest/test"
+	],
+	"folder_history":
+	[
+		"/media/para/Projects/plugin_test",
+		"/media/para/Projects/editor",
+		"/media/para/Projects/editor/src",
+		"/media/para/Projects/Editor",
+		"/media/para/Projects/sublimeTest"
+	],
+	"last_version": 4143,
+	"last_window_id": 11,
+	"log_indexing": false,
+	"next_update_check": 1692606910,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1026.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"der",
+						"derive\t#[derive(…)]"
+					],
+					[
+						"d",
+						"Debug"
+					],
+					[
+						"M",
+						"MsgDataBlock"
+					],
+					[
+						"Msg",
+						"MsgTrait"
+					],
+					[
+						"Me",
+						"MessageData"
+					],
+					[
+						"Mess",
+						"MessageData"
+					],
+					[
+						"me",
+						"MessageData"
+					],
+					[
+						"Messa",
+						"MessageAction"
+					],
+					[
+						"te",
+						"temp"
+					],
+					[
+						"p",
+						"println"
+					],
+					[
+						"key",
+						"key_binding_manager"
+					],
+					[
+						"Key",
+						"KeyBinding"
+					],
+					[
+						"key_",
+						"key_binding_manager"
+					],
+					[
+						"key_binding",
+						"key_binding_manager"
+					],
+					[
+						"Edit",
+						"EditorFlags"
+					],
+					[
+						"fal",
+						"flags"
+					],
+					[
+						"Se",
+						"Settings"
+					],
+					[
+						"edi",
+						"EditorFlags"
+					],
+					[
+						"KeyB",
+						"KeyBinding"
+					],
+					[
+						"main",
+						"main_window"
+					],
+					[
+						"ass",
+						"assert\tassert!(…)"
+					],
+					[
+						"mod",
+						"modifiers"
+					],
+					[
+						"prin",
+						"println\tprintln!(…)"
+					],
+					[
+						"print",
+						"println\tprintln!(…)"
+					],
+					[
+						"de",
+						"derive\t#[derive(…)]"
+					],
+					[
+						"Defau",
+						"DefaultHasher"
+					],
+					[
+						"hash",
+						"hashes"
+					],
+					[
+						"mo",
+						"modifiers"
+					],
+					[
+						"allo",
+						"allow_more_mods"
+					],
+					[
+						"E",
+						"event_loop"
+					],
+					[
+						"hot",
+						"hotkey_manager"
+					],
+					[
+						"printl",
+						"println\tprintln!(…)"
+					],
+					[
+						"window",
+						"WindowBuilder"
+					],
+					[
+						"Mod",
+						"ModifiersState"
+					],
+					[
+						"v",
+						"view"
+					],
+					[
+						"con",
+						"continue\tcontinue;"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					],
+					[
+						"commen",
+						"Toggle Comment"
+					],
+					[
+						"commn",
+						"Toggle Comment"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"Theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax",
+						"Set Syntax: Font"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/media/para/Projects/editor/src/window/hotkeys/hotkey_manager.rs",
+				"/media/para/Projects/editor/src/window/window.rs",
+				"/media/para/Projects/editor/src/main.rs",
+				"/media/para/Projects/editor/src/preset.rs",
+				"/media/para/Projects/editor/src/test.rs",
+				"/media/para/Projects/editor/Cargo.toml",
+				"/media/para/Projects/Editor/src/test.rs",
+				"/media/para/Projects/sublimeTest/Dominic system",
+				"/home/luh/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/luh/.config/sublime-text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"!\");\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"src/tests.rs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1908.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"der",
+						"derive\t#[derive(…)]"
+					],
+					[
+						"d",
+						"Debug"
+					],
+					[
+						"M",
+						"MsgDataBlock"
+					],
+					[
+						"Msg",
+						"MsgTrait"
+					],
+					[
+						"Me",
+						"MessageData"
+					],
+					[
+						"Mess",
+						"MessageData"
+					],
+					[
+						"me",
+						"MessageData"
+					],
+					[
+						"Messa",
+						"MessageAction"
+					],
+					[
+						"te",
+						"temp"
+					],
+					[
+						"p",
+						"println"
+					],
+					[
+						"key",
+						"key_binding_manager"
+					],
+					[
+						"Key",
+						"KeyBinding"
+					],
+					[
+						"key_",
+						"key_binding_manager"
+					],
+					[
+						"key_binding",
+						"key_binding_manager"
+					],
+					[
+						"Edit",
+						"EditorFlags"
+					],
+					[
+						"fal",
+						"flags"
+					],
+					[
+						"Se",
+						"Settings"
+					],
+					[
+						"edi",
+						"EditorFlags"
+					],
+					[
+						"KeyB",
+						"KeyBinding"
+					],
+					[
+						"main",
+						"main_window"
+					],
+					[
+						"ass",
+						"assert\tassert!(…)"
+					],
+					[
+						"mod",
+						"modifiers"
+					],
+					[
+						"prin",
+						"println\tprintln!(…)"
+					],
+					[
+						"print",
+						"println\tprintln!(…)"
+					],
+					[
+						"de",
+						"derive\t#[derive(…)]"
+					],
+					[
+						"Defau",
+						"DefaultHasher"
+					],
+					[
+						"hash",
+						"hashes"
+					],
+					[
+						"mo",
+						"modifiers"
+					],
+					[
+						"allo",
+						"allow_more_mods"
+					],
+					[
+						"E",
+						"event_loop"
+					],
+					[
+						"hot",
+						"hotkey_manager"
+					],
+					[
+						"printl",
+						"println\tprintln!(…)"
+					],
+					[
+						"window",
+						"WindowBuilder"
+					],
+					[
+						"Mod",
+						"ModifiersState"
+					],
+					[
+						"v",
+						"view"
+					],
+					[
+						"con",
+						"continue\tcontinue;"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/media/para/Projects/plugin_test/src/main.rs",
+					"settings":
+					{
+						"buffer_size": 45,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAAwgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							26,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"",
+							null,
+							"AQAAAMQAAAAAAAAAEQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAADCAAAAcHViIHRyYWl0IFBsdWdpbiB7CiAgICBmbiBuYW1lKCZzZWxmKSAtPiAmJ3N0YXRpYyBzdHI7CiAgICBmbiBvbl9wbHVnaW5fbG9hZCgmc2VsZikge30KICAgIGZuIHByZV9zZW5kKCZzZWxmLCBfcmVxdWVzdDogJm11dCBSZXF1ZXN0KSB7fQogICAgZm4gcG9zdF9yZWNlaXZlKCZzZWxmLCBfcmVzcG9uc2U6ICZtdXQgUmVzcG9uc2UpIHt9Cn0",
+							"AQAAAAAAAAABAAAAwgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAACAAAACgo",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n"
+							},
+							"AwAAAE0AAAAAAAAATgAAAAAAAAAAAAAATgAAAAAAAABPAAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAATQAAAAAAAABNAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"cut",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAABNAAAAI1tub19tYW5nbGVdCnB1YiBleHRlcm4gIkMiIGZuIGFkZChhOiBpc2l6ZSwgYjogaXNpemUpIC0+IGlzaXplIHsKICAgIGEgKyBiCn0",
+							"AQAAAAAAAAABAAAATQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACgoKCg",
+							"AQAAAAAAAAABAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/media/para/Projects/plugin_test/src/adder.rs",
+					"settings":
+					{
+						"buffer_size": 77,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"paste",
+							null,
+							"AQAAAAAAAAAAAAAATQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"folder",
+						"Project: Add Folder"
+					],
+					[
+						"comm",
+						"Toggle Comment"
+					],
+					[
+						"comment",
+						"Toggle Comment"
+					],
+					[
+						"commen",
+						"Toggle Comment"
+					],
+					[
+						"commn",
+						"Toggle Comment"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"Theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"syntax",
+						"Set Syntax: Font"
+					],
+					[
+						"open",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/media/para/Projects/plugin_test",
+				"/media/para/Projects/plugin_test/src"
+			],
+			"file_history":
+			[
+				"/media/para/Projects/editor/src/window/hotkeys/hotkey_manager.rs",
+				"/media/para/Projects/editor/src/window/window.rs",
+				"/media/para/Projects/editor/src/main.rs",
+				"/media/para/Projects/editor/src/preset.rs",
+				"/media/para/Projects/editor/src/test.rs",
+				"/media/para/Projects/editor/Cargo.toml",
+				"/media/para/Projects/Editor/src/test.rs",
+				"/media/para/Projects/sublimeTest/Dominic system",
+				"/home/luh/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/luh/.config/sublime-text/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"!\");\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/media/para/Projects/plugin_test"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/media/para/Projects/plugin_test/src/main.rs",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///media/para/Projects/plugin_test/src/main.rs",
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/media/para/Projects/plugin_test/src/adder.rs",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 77,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										77,
+										77
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html, text.xml"
+										},
+										{
+											"rhs_empty": true,
+											"selector": "punctuation.accessor"
+										}
+									],
+									"lsp_uri": "file:///media/para/Projects/plugin_test/src/adder.rs",
+									"syntax": "Packages/Rust Enhanced/RustEnhanced.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,1908,1026,3841,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"src/tests.rs"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 230.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 11,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

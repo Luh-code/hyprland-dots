@@ -1,0 +1,6 @@
+[options]
+image_quality = 'balanced'
+custom-fps = '120.0'
+show_remote_cursor = 'Y'
+custom_image_quality = '100.0'
+show_quality_monitor = 'Y'

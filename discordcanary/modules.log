@@ -1,0 +1,825 @@
+2023-05-27T10:53:52.926Z [Modules] Modules initializing
+2023-05-27T10:53:52.927Z [Modules] Distribution: remote
+2023-05-27T10:53:52.927Z [Modules] Host updates: enabled
+2023-05-27T10:53:52.927Z [Modules] Module updates: enabled
+2023-05-27T10:53:52.927Z [Modules] Module install path: /home/luh/.config/discordcanary/0.0.154/modules
+2023-05-27T10:53:52.927Z [Modules] Module installed file path: /home/luh/.config/discordcanary/0.0.154/modules/installed.json
+2023-05-27T10:53:52.927Z [Modules] Module download path: /home/luh/.config/discordcanary/0.0.154/modules/pending
+2023-05-27T10:53:53.119Z [Modules] Bootstrapping...
+2023-05-27T10:53:53.120Z [Modules] Installing discord_desktop_core@0 from /usr/lib/discord-canary/bootstrap/discord_desktop_core.zip
+2023-05-27T10:53:53.121Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord-canary/bootstrap/discord_desktop_core.zip'
+2023-05-27T10:53:53.121Z [Modules] Installing discord_erlpack@0 from /usr/lib/discord-canary/bootstrap/discord_erlpack.zip
+2023-05-27T10:53:53.122Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord-canary/bootstrap/discord_erlpack.zip'
+2023-05-27T10:53:53.122Z [Modules] Installing discord_spellcheck@0 from /usr/lib/discord-canary/bootstrap/discord_spellcheck.zip
+2023-05-27T10:53:53.123Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord-canary/bootstrap/discord_spellcheck.zip'
+2023-05-27T10:53:53.123Z [Modules] Installing discord_utils@0 from /usr/lib/discord-canary/bootstrap/discord_utils.zip
+2023-05-27T10:53:53.124Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord-canary/bootstrap/discord_utils.zip'
+2023-05-27T10:53:53.124Z [Modules] Installing discord_voice@0 from /usr/lib/discord-canary/bootstrap/discord_voice.zip
+2023-05-27T10:53:53.124Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/usr/lib/discord-canary/bootstrap/discord_voice.zip'
+2023-05-27T10:53:53.124Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-05-27T10:53:53.125Z [Modules] Checking for host updates.
+2023-05-27T10:53:53.321Z [Modules] Host is up to date.
+2023-05-27T10:53:53.321Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T10:53:53.511Z [Modules] Module update available: discord_desktop_core@7 [installed: 0]
+2023-05-27T10:53:53.511Z [Modules] Module update available: discord_erlpack@7 [installed: 0]
+2023-05-27T10:53:53.511Z [Modules] Module update available: discord_spellcheck@7 [installed: 0]
+2023-05-27T10:53:53.511Z [Modules] Module update available: discord_utils@7 [installed: 0]
+2023-05-27T10:53:53.511Z [Modules] Module update available: discord_voice@7 [installed: 0]
+2023-05-27T10:53:53.512Z [Modules] Fetching discord_desktop_core@7 from https://discord.com/api/modules/canary/discord_desktop_core/7
+2023-05-27T10:53:53.512Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip
+2023-05-27T10:53:53.722Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 1%
+2023-05-27T10:53:53.725Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 2%
+2023-05-27T10:53:53.735Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 3%
+2023-05-27T10:53:53.737Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 4%
+2023-05-27T10:53:53.740Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 5%
+2023-05-27T10:53:53.743Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 6%
+2023-05-27T10:53:53.749Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 7%
+2023-05-27T10:53:53.752Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 8%
+2023-05-27T10:53:53.754Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 9%
+2023-05-27T10:53:53.757Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 10%
+2023-05-27T10:53:53.761Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 11%
+2023-05-27T10:53:53.762Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 12%
+2023-05-27T10:53:53.766Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 13%
+2023-05-27T10:53:53.769Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 14%
+2023-05-27T10:53:53.771Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 15%
+2023-05-27T10:53:53.774Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 17%
+2023-05-27T10:53:53.779Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 18%
+2023-05-27T10:53:53.781Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 19%
+2023-05-27T10:53:53.783Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 20%
+2023-05-27T10:53:53.787Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 21%
+2023-05-27T10:53:53.789Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 22%
+2023-05-27T10:53:53.791Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 23%
+2023-05-27T10:53:53.792Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 24%
+2023-05-27T10:53:53.798Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 25%
+2023-05-27T10:53:53.799Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 26%
+2023-05-27T10:53:53.801Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 27%
+2023-05-27T10:53:53.806Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 28%
+2023-05-27T10:53:53.808Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 29%
+2023-05-27T10:53:53.809Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 30%
+2023-05-27T10:53:53.811Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 31%
+2023-05-27T10:53:53.816Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 32%
+2023-05-27T10:53:53.818Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 33%
+2023-05-27T10:53:53.821Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 34%
+2023-05-27T10:53:53.823Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 35%
+2023-05-27T10:53:53.825Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 36%
+2023-05-27T10:53:53.828Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 37%
+2023-05-27T10:53:53.830Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 38%
+2023-05-27T10:53:53.833Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 39%
+2023-05-27T10:53:53.835Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 40%
+2023-05-27T10:53:53.836Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 41%
+2023-05-27T10:53:53.842Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 42%
+2023-05-27T10:53:53.843Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 43%
+2023-05-27T10:53:53.845Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 44%
+2023-05-27T10:53:53.848Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 45%
+2023-05-27T10:53:53.852Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 46%
+2023-05-27T10:53:53.854Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 47%
+2023-05-27T10:53:53.855Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 48%
+2023-05-27T10:53:53.860Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 49%
+2023-05-27T10:53:53.862Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 50%
+2023-05-27T10:53:53.864Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 51%
+2023-05-27T10:53:53.865Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 52%
+2023-05-27T10:53:53.870Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 53%
+2023-05-27T10:53:53.872Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 54%
+2023-05-27T10:53:53.874Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 55%
+2023-05-27T10:53:53.879Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 56%
+2023-05-27T10:53:53.880Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 57%
+2023-05-27T10:53:53.882Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 58%
+2023-05-27T10:53:53.883Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 59%
+2023-05-27T10:53:53.889Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 60%
+2023-05-27T10:53:53.891Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 61%
+2023-05-27T10:53:53.892Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 62%
+2023-05-27T10:53:53.897Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 63%
+2023-05-27T10:53:53.899Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 64%
+2023-05-27T10:53:53.901Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 65%
+2023-05-27T10:53:53.902Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 66%
+2023-05-27T10:53:53.907Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 67%
+2023-05-27T10:53:53.909Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 68%
+2023-05-27T10:53:53.911Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 69%
+2023-05-27T10:53:53.914Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 70%
+2023-05-27T10:53:53.918Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 71%
+2023-05-27T10:53:53.919Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 72%
+2023-05-27T10:53:53.921Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 73%
+2023-05-27T10:53:53.928Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 75%
+2023-05-27T10:53:53.930Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 76%
+2023-05-27T10:53:53.934Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 77%
+2023-05-27T10:53:53.936Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 78%
+2023-05-27T10:53:53.938Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 79%
+2023-05-27T10:53:53.939Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 80%
+2023-05-27T10:53:53.944Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 81%
+2023-05-27T10:53:53.946Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 82%
+2023-05-27T10:53:53.948Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 83%
+2023-05-27T10:53:53.953Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 84%
+2023-05-27T10:53:53.954Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 85%
+2023-05-27T10:53:53.956Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 86%
+2023-05-27T10:53:53.958Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 87%
+2023-05-27T10:53:53.963Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 88%
+2023-05-27T10:53:53.965Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 89%
+2023-05-27T10:53:53.966Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 90%
+2023-05-27T10:53:53.971Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 91%
+2023-05-27T10:53:53.973Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 92%
+2023-05-27T10:53:53.974Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 93%
+2023-05-27T10:53:53.976Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 94%
+2023-05-27T10:53:53.980Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 95%
+2023-05-27T10:53:53.983Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 96%
+2023-05-27T10:53:53.985Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 97%
+2023-05-27T10:53:53.988Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 98%
+2023-05-27T10:53:53.990Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 99%
+2023-05-27T10:53:53.990Z [Modules] Streaming discord_desktop_core@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip: 100%
+2023-05-27T10:53:53.991Z [Modules] Fetching discord_erlpack@7 from https://discord.com/api/modules/canary/discord_erlpack/7
+2023-05-27T10:53:53.992Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip
+2023-05-27T10:53:54.157Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 1%
+2023-05-27T10:53:54.158Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 2%
+2023-05-27T10:53:54.160Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 3%
+2023-05-27T10:53:54.163Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 4%
+2023-05-27T10:53:54.165Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 5%
+2023-05-27T10:53:54.166Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 6%
+2023-05-27T10:53:54.168Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 7%
+2023-05-27T10:53:54.170Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 8%
+2023-05-27T10:53:54.173Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 9%
+2023-05-27T10:53:54.175Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 10%
+2023-05-27T10:53:54.176Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 11%
+2023-05-27T10:53:54.178Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 12%
+2023-05-27T10:53:54.181Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 13%
+2023-05-27T10:53:54.183Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 14%
+2023-05-27T10:53:54.185Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 15%
+2023-05-27T10:53:54.187Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 16%
+2023-05-27T10:53:54.188Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 17%
+2023-05-27T10:53:54.191Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 18%
+2023-05-27T10:53:54.193Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 19%
+2023-05-27T10:53:54.194Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 20%
+2023-05-27T10:53:54.196Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 21%
+2023-05-27T10:53:54.200Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 22%
+2023-05-27T10:53:54.201Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 23%
+2023-05-27T10:53:54.203Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 24%
+2023-05-27T10:53:54.205Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 25%
+2023-05-27T10:53:54.206Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 26%
+2023-05-27T10:53:54.210Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 27%
+2023-05-27T10:53:54.211Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 28%
+2023-05-27T10:53:54.213Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 29%
+2023-05-27T10:53:54.214Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 30%
+2023-05-27T10:53:54.216Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 31%
+2023-05-27T10:53:54.219Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 32%
+2023-05-27T10:53:54.221Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 33%
+2023-05-27T10:53:54.223Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 34%
+2023-05-27T10:53:54.224Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 35%
+2023-05-27T10:53:54.228Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 36%
+2023-05-27T10:53:54.230Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 37%
+2023-05-27T10:53:54.231Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 38%
+2023-05-27T10:53:54.233Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 39%
+2023-05-27T10:53:54.236Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 40%
+2023-05-27T10:53:54.238Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 41%
+2023-05-27T10:53:54.239Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 42%
+2023-05-27T10:53:54.241Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 43%
+2023-05-27T10:53:54.243Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 44%
+2023-05-27T10:53:54.244Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 45%
+2023-05-27T10:53:54.246Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 46%
+2023-05-27T10:53:54.251Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 47%
+2023-05-27T10:53:54.253Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 48%
+2023-05-27T10:53:54.257Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 49%
+2023-05-27T10:53:54.258Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 50%
+2023-05-27T10:53:54.260Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 51%
+2023-05-27T10:53:54.261Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 52%
+2023-05-27T10:53:54.263Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 53%
+2023-05-27T10:53:54.266Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 54%
+2023-05-27T10:53:54.268Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 55%
+2023-05-27T10:53:54.270Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 56%
+2023-05-27T10:53:54.271Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 57%
+2023-05-27T10:53:54.273Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 58%
+2023-05-27T10:53:54.278Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 60%
+2023-05-27T10:53:54.280Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 61%
+2023-05-27T10:53:54.281Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 62%
+2023-05-27T10:53:54.283Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 63%
+2023-05-27T10:53:54.285Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 64%
+2023-05-27T10:53:54.289Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 65%
+2023-05-27T10:53:54.290Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 66%
+2023-05-27T10:53:54.292Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 67%
+2023-05-27T10:53:54.293Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 68%
+2023-05-27T10:53:54.295Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 69%
+2023-05-27T10:53:54.299Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 70%
+2023-05-27T10:53:54.301Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 71%
+2023-05-27T10:53:54.304Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 73%
+2023-05-27T10:53:54.307Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 74%
+2023-05-27T10:53:54.309Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 75%
+2023-05-27T10:53:54.310Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 76%
+2023-05-27T10:53:54.312Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 77%
+2023-05-27T10:53:54.315Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 78%
+2023-05-27T10:53:54.317Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 79%
+2023-05-27T10:53:54.319Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 80%
+2023-05-27T10:53:54.321Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 81%
+2023-05-27T10:53:54.324Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 82%
+2023-05-27T10:53:54.325Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 83%
+2023-05-27T10:53:54.327Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 84%
+2023-05-27T10:53:54.329Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 85%
+2023-05-27T10:53:54.330Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 86%
+2023-05-27T10:53:54.334Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 87%
+2023-05-27T10:53:54.336Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 88%
+2023-05-27T10:53:54.337Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 89%
+2023-05-27T10:53:54.339Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 90%
+2023-05-27T10:53:54.342Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 91%
+2023-05-27T10:53:54.343Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 92%
+2023-05-27T10:53:54.345Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 93%
+2023-05-27T10:53:54.347Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 94%
+2023-05-27T10:53:54.348Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 95%
+2023-05-27T10:53:54.352Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 96%
+2023-05-27T10:53:54.355Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 97%
+2023-05-27T10:53:54.357Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 98%
+2023-05-27T10:53:54.358Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 99%
+2023-05-27T10:53:54.359Z [Modules] Streaming discord_erlpack@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip: 100%
+2023-05-27T10:53:54.361Z [Modules] Fetching discord_spellcheck@7 from https://discord.com/api/modules/canary/discord_spellcheck/7
+2023-05-27T10:53:54.361Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip
+2023-05-27T10:53:54.546Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 1%
+2023-05-27T10:53:54.557Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 2%
+2023-05-27T10:53:54.570Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 3%
+2023-05-27T10:53:54.582Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 4%
+2023-05-27T10:53:54.595Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 5%
+2023-05-27T10:53:54.609Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 6%
+2023-05-27T10:53:54.621Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 7%
+2023-05-27T10:53:54.633Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 8%
+2023-05-27T10:53:54.646Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 9%
+2023-05-27T10:53:54.658Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 10%
+2023-05-27T10:53:54.672Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 11%
+2023-05-27T10:53:54.688Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 12%
+2023-05-27T10:53:54.696Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 13%
+2023-05-27T10:53:54.717Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 14%
+2023-05-27T10:53:54.722Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 15%
+2023-05-27T10:53:54.733Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 16%
+2023-05-27T10:53:54.749Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 17%
+2023-05-27T10:53:54.760Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 18%
+2023-05-27T10:53:54.772Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 19%
+2023-05-27T10:53:54.785Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 20%
+2023-05-27T10:53:54.798Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 21%
+2023-05-27T10:53:54.811Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 22%
+2023-05-27T10:53:54.822Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 23%
+2023-05-27T10:53:54.836Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 24%
+2023-05-27T10:53:54.847Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 25%
+2023-05-27T10:53:54.860Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 26%
+2023-05-27T10:53:54.872Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 27%
+2023-05-27T10:53:54.885Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 28%
+2023-05-27T10:53:54.900Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 29%
+2023-05-27T10:53:54.910Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 30%
+2023-05-27T10:53:54.924Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 31%
+2023-05-27T10:53:54.935Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 32%
+2023-05-27T10:53:54.949Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 33%
+2023-05-27T10:53:54.964Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 34%
+2023-05-27T10:53:54.975Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 35%
+2023-05-27T10:53:54.986Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 36%
+2023-05-27T10:53:54.999Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 37%
+2023-05-27T10:53:55.011Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 38%
+2023-05-27T10:53:55.028Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 39%
+2023-05-27T10:53:55.038Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 40%
+2023-05-27T10:53:55.051Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 41%
+2023-05-27T10:53:55.062Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 42%
+2023-05-27T10:53:55.075Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 43%
+2023-05-27T10:53:55.113Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 44%
+2023-05-27T10:53:55.117Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 45%
+2023-05-27T10:53:55.120Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 46%
+2023-05-27T10:53:55.132Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 47%
+2023-05-27T10:53:55.139Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 48%
+2023-05-27T10:53:55.152Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 49%
+2023-05-27T10:53:55.165Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 50%
+2023-05-27T10:53:55.178Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 51%
+2023-05-27T10:53:55.190Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 52%
+2023-05-27T10:53:55.225Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 53%
+2023-05-27T10:53:55.225Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 54%
+2023-05-27T10:53:55.232Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 55%
+2023-05-27T10:53:55.241Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 56%
+2023-05-27T10:53:55.252Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 57%
+2023-05-27T10:53:55.264Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 58%
+2023-05-27T10:53:55.278Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 59%
+2023-05-27T10:53:55.289Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 60%
+2023-05-27T10:53:55.305Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 61%
+2023-05-27T10:53:55.342Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 62%
+2023-05-27T10:53:55.342Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 63%
+2023-05-27T10:53:55.343Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 64%
+2023-05-27T10:53:55.353Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 65%
+2023-05-27T10:53:55.365Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 66%
+2023-05-27T10:53:55.380Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 67%
+2023-05-27T10:53:55.397Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 68%
+2023-05-27T10:53:55.407Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 69%
+2023-05-27T10:53:55.420Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 70%
+2023-05-27T10:53:55.431Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 71%
+2023-05-27T10:53:55.469Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 72%
+2023-05-27T10:53:55.469Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 73%
+2023-05-27T10:53:55.474Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 74%
+2023-05-27T10:53:55.485Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 75%
+2023-05-27T10:53:55.496Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 76%
+2023-05-27T10:53:55.509Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 77%
+2023-05-27T10:53:55.521Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 78%
+2023-05-27T10:53:55.532Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 79%
+2023-05-27T10:53:55.544Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 80%
+2023-05-27T10:53:55.578Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 81%
+2023-05-27T10:53:55.579Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 82%
+2023-05-27T10:53:55.582Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 83%
+2023-05-27T10:53:55.595Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 84%
+2023-05-27T10:53:55.607Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 85%
+2023-05-27T10:53:55.619Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 86%
+2023-05-27T10:53:55.632Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 87%
+2023-05-27T10:53:55.644Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 88%
+2023-05-27T10:53:55.657Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 89%
+2023-05-27T10:53:55.671Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 90%
+2023-05-27T10:53:55.682Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 91%
+2023-05-27T10:53:55.694Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 92%
+2023-05-27T10:53:55.706Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 93%
+2023-05-27T10:53:55.720Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 94%
+2023-05-27T10:53:55.733Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 95%
+2023-05-27T10:53:55.745Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 96%
+2023-05-27T10:53:55.757Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 97%
+2023-05-27T10:53:55.770Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 98%
+2023-05-27T10:53:55.783Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 99%
+2023-05-27T10:53:55.794Z [Modules] Streaming discord_spellcheck@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip: 100%
+2023-05-27T10:53:55.795Z [Modules] Fetching discord_utils@7 from https://discord.com/api/modules/canary/discord_utils/7
+2023-05-27T10:53:55.795Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip
+2023-05-27T10:53:55.974Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 1%
+2023-05-27T10:53:55.977Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 2%
+2023-05-27T10:53:55.982Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 3%
+2023-05-27T10:53:55.985Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 4%
+2023-05-27T10:53:55.990Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 5%
+2023-05-27T10:53:55.993Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 6%
+2023-05-27T10:53:55.995Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 7%
+2023-05-27T10:53:56.000Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 8%
+2023-05-27T10:53:56.003Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 9%
+2023-05-27T10:53:56.008Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 10%
+2023-05-27T10:53:56.011Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 11%
+2023-05-27T10:53:56.016Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 12%
+2023-05-27T10:53:56.018Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 13%
+2023-05-27T10:53:56.022Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 14%
+2023-05-27T10:53:56.027Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 15%
+2023-05-27T10:53:56.030Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 16%
+2023-05-27T10:53:56.035Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 17%
+2023-05-27T10:53:56.038Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 18%
+2023-05-27T10:53:56.040Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 19%
+2023-05-27T10:53:56.045Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 20%
+2023-05-27T10:53:56.048Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 21%
+2023-05-27T10:53:56.053Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 22%
+2023-05-27T10:53:56.057Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 23%
+2023-05-27T10:53:56.060Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 24%
+2023-05-27T10:53:56.062Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 25%
+2023-05-27T10:53:56.067Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 26%
+2023-05-27T10:53:56.070Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 27%
+2023-05-27T10:53:56.077Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 28%
+2023-05-27T10:53:56.080Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 29%
+2023-05-27T10:53:56.083Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 30%
+2023-05-27T10:53:56.084Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 31%
+2023-05-27T10:53:56.090Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 32%
+2023-05-27T10:53:56.093Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 33%
+2023-05-27T10:53:56.097Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 34%
+2023-05-27T10:53:56.101Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 35%
+2023-05-27T10:53:56.105Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 36%
+2023-05-27T10:53:56.108Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 37%
+2023-05-27T10:53:56.112Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 38%
+2023-05-27T10:53:56.116Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 39%
+2023-05-27T10:53:56.122Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 40%
+2023-05-27T10:53:56.123Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 41%
+2023-05-27T10:53:56.130Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 43%
+2023-05-27T10:53:56.135Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 44%
+2023-05-27T10:53:56.138Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 45%
+2023-05-27T10:53:56.143Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 46%
+2023-05-27T10:53:56.146Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 47%
+2023-05-27T10:53:56.151Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 48%
+2023-05-27T10:53:56.155Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 49%
+2023-05-27T10:53:56.157Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 50%
+2023-05-27T10:53:56.161Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 51%
+2023-05-27T10:53:56.165Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 52%
+2023-05-27T10:53:56.169Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 53%
+2023-05-27T10:53:56.173Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 54%
+2023-05-27T10:53:56.177Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 55%
+2023-05-27T10:53:56.180Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 56%
+2023-05-27T10:53:56.183Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 57%
+2023-05-27T10:53:56.187Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 58%
+2023-05-27T10:53:56.192Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 59%
+2023-05-27T10:53:56.195Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 60%
+2023-05-27T10:53:56.199Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 61%
+2023-05-27T10:53:56.201Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 62%
+2023-05-27T10:53:56.206Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 63%
+2023-05-27T10:53:56.209Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 64%
+2023-05-27T10:53:56.213Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 65%
+2023-05-27T10:53:56.218Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 66%
+2023-05-27T10:53:56.222Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 67%
+2023-05-27T10:53:56.223Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 68%
+2023-05-27T10:53:56.229Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 69%
+2023-05-27T10:53:56.231Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 70%
+2023-05-27T10:53:56.236Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 71%
+2023-05-27T10:53:56.240Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 72%
+2023-05-27T10:53:56.245Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 73%
+2023-05-27T10:53:56.247Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 74%
+2023-05-27T10:53:56.251Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 75%
+2023-05-27T10:53:56.254Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 76%
+2023-05-27T10:53:56.259Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 77%
+2023-05-27T10:53:56.263Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 78%
+2023-05-27T10:53:56.266Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 79%
+2023-05-27T10:53:56.268Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 80%
+2023-05-27T10:53:56.273Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 81%
+2023-05-27T10:53:56.277Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 82%
+2023-05-27T10:53:56.282Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 83%
+2023-05-27T10:53:56.285Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 84%
+2023-05-27T10:53:56.289Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 85%
+2023-05-27T10:53:56.291Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 86%
+2023-05-27T10:53:56.296Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 87%
+2023-05-27T10:53:56.299Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 88%
+2023-05-27T10:53:56.303Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 89%
+2023-05-27T10:53:56.307Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 90%
+2023-05-27T10:53:56.312Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 91%
+2023-05-27T10:53:56.314Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 92%
+2023-05-27T10:53:56.318Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 93%
+2023-05-27T10:53:56.321Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 94%
+2023-05-27T10:53:56.328Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 95%
+2023-05-27T10:53:56.330Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 96%
+2023-05-27T10:53:56.335Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 97%
+2023-05-27T10:53:56.336Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 98%
+2023-05-27T10:53:56.340Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 99%
+2023-05-27T10:53:56.342Z [Modules] Streaming discord_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip: 100%
+2023-05-27T10:53:56.343Z [Modules] Fetching discord_voice@7 from https://discord.com/api/modules/canary/discord_voice/7
+2023-05-27T10:53:56.343Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip
+2023-05-27T10:53:56.556Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 1%
+2023-05-27T10:53:56.584Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 2%
+2023-05-27T10:53:56.619Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 3%
+2023-05-27T10:53:56.645Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 4%
+2023-05-27T10:53:56.671Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 5%
+2023-05-27T10:53:56.708Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 6%
+2023-05-27T10:53:56.733Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 7%
+2023-05-27T10:53:56.770Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 8%
+2023-05-27T10:53:56.805Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 9%
+2023-05-27T10:53:56.836Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 10%
+2023-05-27T10:53:56.871Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 11%
+2023-05-27T10:53:56.907Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 12%
+2023-05-27T10:53:56.941Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 13%
+2023-05-27T10:53:56.971Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 14%
+2023-05-27T10:53:57.007Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 15%
+2023-05-27T10:53:57.038Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 16%
+2023-05-27T10:53:57.069Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 17%
+2023-05-27T10:53:57.099Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 18%
+2023-05-27T10:53:57.132Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 19%
+2023-05-27T10:53:57.167Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 20%
+2023-05-27T10:53:57.203Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 21%
+2023-05-27T10:53:57.242Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 22%
+2023-05-27T10:53:57.280Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 23%
+2023-05-27T10:53:57.315Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 24%
+2023-05-27T10:53:57.355Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 25%
+2023-05-27T10:53:57.390Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 26%
+2023-05-27T10:53:57.432Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 27%
+2023-05-27T10:53:57.468Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 28%
+2023-05-27T10:53:57.498Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 29%
+2023-05-27T10:53:57.528Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 30%
+2023-05-27T10:53:57.551Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 31%
+2023-05-27T10:53:57.579Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 32%
+2023-05-27T10:53:57.605Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 33%
+2023-05-27T10:53:57.632Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 34%
+2023-05-27T10:53:57.660Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 35%
+2023-05-27T10:53:57.684Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 36%
+2023-05-27T10:53:57.710Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 37%
+2023-05-27T10:53:57.737Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 38%
+2023-05-27T10:53:57.761Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 39%
+2023-05-27T10:53:57.788Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 40%
+2023-05-27T10:53:57.814Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 41%
+2023-05-27T10:53:57.839Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 42%
+2023-05-27T10:53:57.867Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 43%
+2023-05-27T10:53:57.893Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 44%
+2023-05-27T10:53:57.919Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 45%
+2023-05-27T10:53:57.944Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 46%
+2023-05-27T10:53:57.976Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 47%
+2023-05-27T10:53:58.001Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 48%
+2023-05-27T10:53:58.048Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 49%
+2023-05-27T10:53:58.097Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 50%
+2023-05-27T10:53:58.141Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 51%
+2023-05-27T10:53:58.185Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 52%
+2023-05-27T10:53:58.222Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 53%
+2023-05-27T10:53:58.255Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 54%
+2023-05-27T10:53:58.303Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 55%
+2023-05-27T10:53:58.324Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 56%
+2023-05-27T10:53:58.369Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 57%
+2023-05-27T10:53:58.434Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 58%
+2023-05-27T10:53:58.450Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 59%
+2023-05-27T10:53:58.488Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 60%
+2023-05-27T10:53:58.543Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 61%
+2023-05-27T10:53:58.563Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 62%
+2023-05-27T10:53:58.589Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 63%
+2023-05-27T10:53:58.613Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 64%
+2023-05-27T10:53:58.639Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 65%
+2023-05-27T10:53:58.666Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 66%
+2023-05-27T10:53:58.690Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 67%
+2023-05-27T10:53:58.717Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 68%
+2023-05-27T10:53:58.742Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 69%
+2023-05-27T10:53:58.769Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 70%
+2023-05-27T10:53:58.794Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 71%
+2023-05-27T10:53:58.820Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 72%
+2023-05-27T10:53:58.846Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 73%
+2023-05-27T10:53:58.871Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 74%
+2023-05-27T10:53:58.898Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 75%
+2023-05-27T10:53:58.925Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 76%
+2023-05-27T10:53:58.949Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 77%
+2023-05-27T10:53:58.976Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 78%
+2023-05-27T10:53:59.002Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 79%
+2023-05-27T10:53:59.027Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 80%
+2023-05-27T10:53:59.053Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 81%
+2023-05-27T10:53:59.079Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 82%
+2023-05-27T10:53:59.104Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 83%
+2023-05-27T10:53:59.132Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 84%
+2023-05-27T10:53:59.157Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 85%
+2023-05-27T10:53:59.181Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 86%
+2023-05-27T10:53:59.209Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 87%
+2023-05-27T10:53:59.236Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 88%
+2023-05-27T10:53:59.261Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 89%
+2023-05-27T10:53:59.285Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 90%
+2023-05-27T10:53:59.312Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 91%
+2023-05-27T10:53:59.339Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 92%
+2023-05-27T10:53:59.363Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 93%
+2023-05-27T10:53:59.390Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 94%
+2023-05-27T10:53:59.417Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 95%
+2023-05-27T10:53:59.441Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 96%
+2023-05-27T10:53:59.471Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 97%
+2023-05-27T10:53:59.497Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 98%
+2023-05-27T10:53:59.521Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 99%
+2023-05-27T10:53:59.550Z [Modules] Streaming discord_voice@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip: 100%
+2023-05-27T10:53:59.552Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-05-27T10:53:59.552Z [Modules] Installing updates...
+2023-05-27T10:53:59.552Z [Modules] Installing discord_desktop_core@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_desktop_core-7.zip
+2023-05-27T10:53:59.676Z [Modules] Installing discord_erlpack@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_erlpack-7.zip
+2023-05-27T10:53:59.741Z [Modules] Installing discord_spellcheck@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_spellcheck-7.zip
+2023-05-27T10:54:00.304Z [Modules] Installing discord_utils@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_utils-7.zip
+2023-05-27T10:54:00.585Z [Modules] Installing discord_voice@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_voice-7.zip
+2023-05-27T10:54:01.355Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-05-27T10:54:01.355Z [Modules] Checking for host updates.
+2023-05-27T10:54:01.534Z [Modules] Host is up to date.
+2023-05-27T10:54:01.534Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T10:54:01.539Z [Modules] No module updates available.
+2023-05-27T10:54:03.225Z [Modules] Starting to install discord_krisp...
+2023-05-27T10:54:03.226Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/canary/discord_krisp/1
+2023-05-27T10:54:03.226Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip
+2023-05-27T10:54:03.307Z [Modules] Starting to install discord_game_utils...
+2023-05-27T10:54:03.428Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 1%
+2023-05-27T10:54:03.459Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 2%
+2023-05-27T10:54:03.483Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 3%
+2023-05-27T10:54:03.514Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 4%
+2023-05-27T10:54:03.545Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 5%
+2023-05-27T10:54:03.579Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 6%
+2023-05-27T10:54:03.609Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 7%
+2023-05-27T10:54:03.630Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 8%
+2023-05-27T10:54:03.782Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 9%
+2023-05-27T10:54:03.789Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 10%
+2023-05-27T10:54:03.791Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 11%
+2023-05-27T10:54:03.796Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 12%
+2023-05-27T10:54:03.798Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 13%
+2023-05-27T10:54:03.801Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 14%
+2023-05-27T10:54:03.831Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 15%
+2023-05-27T10:54:03.858Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 16%
+2023-05-27T10:54:03.883Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 17%
+2023-05-27T10:54:03.940Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 18%
+2023-05-27T10:54:03.969Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 19%
+2023-05-27T10:54:03.998Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 20%
+2023-05-27T10:54:04.024Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 21%
+2023-05-27T10:54:04.053Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 22%
+2023-05-27T10:54:04.082Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 23%
+2023-05-27T10:54:04.111Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 24%
+2023-05-27T10:54:04.136Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 25%
+2023-05-27T10:54:04.165Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 26%
+2023-05-27T10:54:04.194Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 27%
+2023-05-27T10:54:04.219Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 28%
+2023-05-27T10:54:04.251Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 29%
+2023-05-27T10:54:04.266Z [Modules] Checking for host updates.
+2023-05-27T10:54:04.277Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 30%
+2023-05-27T10:54:04.305Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 31%
+2023-05-27T10:54:04.333Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 32%
+2023-05-27T10:54:04.362Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 33%
+2023-05-27T10:54:04.392Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 34%
+2023-05-27T10:54:04.426Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 35%
+2023-05-27T10:54:04.433Z [Modules] Host is up to date.
+2023-05-27T10:54:04.433Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T10:54:04.436Z [Modules] No module updates available.
+2023-05-27T10:54:04.448Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 36%
+2023-05-27T10:54:04.478Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 37%
+2023-05-27T10:54:04.506Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 38%
+2023-05-27T10:54:04.534Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 39%
+2023-05-27T10:54:04.541Z [Modules] Starting to install discord_rpc...
+2023-05-27T10:54:04.590Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 40%
+2023-05-27T10:54:04.611Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 41%
+2023-05-27T10:54:04.635Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 42%
+2023-05-27T10:54:04.845Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 46%
+2023-05-27T10:54:04.857Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 50%
+2023-05-27T10:54:04.882Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 51%
+2023-05-27T10:54:04.910Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 52%
+2023-05-27T10:54:04.949Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 53%
+2023-05-27T10:54:04.979Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 54%
+2023-05-27T10:54:05.007Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 55%
+2023-05-27T10:54:05.033Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 56%
+2023-05-27T10:54:05.061Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 57%
+2023-05-27T10:54:05.091Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 58%
+2023-05-27T10:54:05.119Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 59%
+2023-05-27T10:54:05.146Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 60%
+2023-05-27T10:54:05.178Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 61%
+2023-05-27T10:54:05.203Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 62%
+2023-05-27T10:54:05.232Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 63%
+2023-05-27T10:54:05.267Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 64%
+2023-05-27T10:54:05.288Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 65%
+2023-05-27T10:54:05.316Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 66%
+2023-05-27T10:54:05.345Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 67%
+2023-05-27T10:54:05.372Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 68%
+2023-05-27T10:54:05.401Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 69%
+2023-05-27T10:54:05.428Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 70%
+2023-05-27T10:54:05.460Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 71%
+2023-05-27T10:54:05.490Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 72%
+2023-05-27T10:54:05.516Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 73%
+2023-05-27T10:54:05.543Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 74%
+2023-05-27T10:54:05.574Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 75%
+2023-05-27T10:54:05.648Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 76%
+2023-05-27T10:54:05.649Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 77%
+2023-05-27T10:54:05.683Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 78%
+2023-05-27T10:54:05.687Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 79%
+2023-05-27T10:54:05.714Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 80%
+2023-05-27T10:54:05.742Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 81%
+2023-05-27T10:54:05.770Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 82%
+2023-05-27T10:54:05.796Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 83%
+2023-05-27T10:54:05.828Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 84%
+2023-05-27T10:54:05.855Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 85%
+2023-05-27T10:54:05.882Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 86%
+2023-05-27T10:54:05.908Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 87%
+2023-05-27T10:54:05.937Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 88%
+2023-05-27T10:54:05.965Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 89%
+2023-05-27T10:54:05.994Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 90%
+2023-05-27T10:54:06.020Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 91%
+2023-05-27T10:54:06.048Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 92%
+2023-05-27T10:54:06.076Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 93%
+2023-05-27T10:54:06.105Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 94%
+2023-05-27T10:54:06.130Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 95%
+2023-05-27T10:54:06.160Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 96%
+2023-05-27T10:54:06.188Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 97%
+2023-05-27T10:54:06.218Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 98%
+2023-05-27T10:54:06.243Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 99%
+2023-05-27T10:54:06.270Z [Modules] Streaming discord_krisp@1 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip: 100%
+2023-05-27T10:54:06.271Z [Modules] Fetching discord_game_utils@7 from https://discord.com/api/modules/canary/discord_game_utils/7
+2023-05-27T10:54:06.271Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip
+2023-05-27T10:54:06.272Z [Modules] Installing discord_krisp@1 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_krisp-1.zip
+2023-05-27T10:54:06.438Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 1%
+2023-05-27T10:54:06.442Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 2%
+2023-05-27T10:54:06.443Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 3%
+2023-05-27T10:54:06.447Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 4%
+2023-05-27T10:54:06.450Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 5%
+2023-05-27T10:54:06.454Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 6%
+2023-05-27T10:54:06.456Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 7%
+2023-05-27T10:54:06.461Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 8%
+2023-05-27T10:54:06.463Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 9%
+2023-05-27T10:54:06.466Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 10%
+2023-05-27T10:54:06.468Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 11%
+2023-05-27T10:54:06.472Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 12%
+2023-05-27T10:54:06.475Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 13%
+2023-05-27T10:54:06.477Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 14%
+2023-05-27T10:54:06.480Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 15%
+2023-05-27T10:54:06.482Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 16%
+2023-05-27T10:54:06.487Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 17%
+2023-05-27T10:54:06.489Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 18%
+2023-05-27T10:54:06.492Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 19%
+2023-05-27T10:54:06.494Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 20%
+2023-05-27T10:54:06.498Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 21%
+2023-05-27T10:54:06.502Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 22%
+2023-05-27T10:54:06.505Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 23%
+2023-05-27T10:54:06.507Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 24%
+2023-05-27T10:54:06.516Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 26%
+2023-05-27T10:54:06.519Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 27%
+2023-05-27T10:54:06.522Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 28%
+2023-05-27T10:54:06.525Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 30%
+2023-05-27T10:54:06.529Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 31%
+2023-05-27T10:54:06.530Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 32%
+2023-05-27T10:54:06.536Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 33%
+2023-05-27T10:54:06.537Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 34%
+2023-05-27T10:54:06.541Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 35%
+2023-05-27T10:54:06.543Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 36%
+2023-05-27T10:54:06.546Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 37%
+2023-05-27T10:54:06.550Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 38%
+2023-05-27T10:54:06.553Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 39%
+2023-05-27T10:54:06.555Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 40%
+2023-05-27T10:54:06.559Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 41%
+2023-05-27T10:54:06.561Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 42%
+2023-05-27T10:54:06.566Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 43%
+2023-05-27T10:54:06.568Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 44%
+2023-05-27T10:54:06.571Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 45%
+2023-05-27T10:54:06.573Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 46%
+2023-05-27T10:54:06.578Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 47%
+2023-05-27T10:54:06.580Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 48%
+2023-05-27T10:54:06.583Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 49%
+2023-05-27T10:54:06.586Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 50%
+2023-05-27T10:54:06.590Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 51%
+2023-05-27T10:54:06.592Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 52%
+2023-05-27T10:54:06.595Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 53%
+2023-05-27T10:54:06.597Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 54%
+2023-05-27T10:54:06.602Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 55%
+2023-05-27T10:54:06.604Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 56%
+2023-05-27T10:54:06.608Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 57%
+2023-05-27T10:54:06.609Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 58%
+2023-05-27T10:54:06.614Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 59%
+2023-05-27T10:54:06.616Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 60%
+2023-05-27T10:54:06.626Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 61%
+2023-05-27T10:54:06.633Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 64%
+2023-05-27T10:54:06.641Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 67%
+2023-05-27T10:54:06.643Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 68%
+2023-05-27T10:54:06.645Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 69%
+2023-05-27T10:54:06.647Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 70%
+2023-05-27T10:54:06.650Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 71%
+2023-05-27T10:54:06.653Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 72%
+2023-05-27T10:54:06.658Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 73%
+2023-05-27T10:54:06.660Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 74%
+2023-05-27T10:54:06.664Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 75%
+2023-05-27T10:54:06.666Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 76%
+2023-05-27T10:54:06.669Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 77%
+2023-05-27T10:54:06.671Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 78%
+2023-05-27T10:54:06.677Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 79%
+2023-05-27T10:54:06.678Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 80%
+2023-05-27T10:54:06.682Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 81%
+2023-05-27T10:54:06.683Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 82%
+2023-05-27T10:54:06.689Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 83%
+2023-05-27T10:54:06.690Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 84%
+2023-05-27T10:54:06.694Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 85%
+2023-05-27T10:54:06.694Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 86%
+2023-05-27T10:54:06.705Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 89%
+2023-05-27T10:54:06.709Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 90%
+2023-05-27T10:54:06.713Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 91%
+2023-05-27T10:54:06.714Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 92%
+2023-05-27T10:54:06.719Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 93%
+2023-05-27T10:54:06.721Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 94%
+2023-05-27T10:54:06.723Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 95%
+2023-05-27T10:54:06.727Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 96%
+2023-05-27T10:54:06.729Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 97%
+2023-05-27T10:54:06.732Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 98%
+2023-05-27T10:54:06.738Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 99%
+2023-05-27T10:54:06.740Z [Modules] Streaming discord_game_utils@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip: 100%
+2023-05-27T10:54:06.741Z [Modules] Fetching discord_rpc@7 from https://discord.com/api/modules/canary/discord_rpc/7
+2023-05-27T10:54:06.741Z [Modules] Streaming discord_rpc@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_rpc-7.zip
+2023-05-27T10:54:06.830Z [Modules] Installing discord_game_utils@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_game_utils-7.zip
+2023-05-27T10:54:06.907Z [Modules] Streaming discord_rpc@7 to /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_rpc-7.zip: 100%
+2023-05-27T10:54:06.907Z [Modules] Finished module downloads. [success: 3] [failure: 0]
+2023-05-27T10:54:06.908Z [Modules] Installing discord_rpc@7 from /home/luh/.config/discordcanary/0.0.154/modules/pending/discord_rpc-7.zip
+2023-05-27T10:54:06.931Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-05-27T11:54:04.274Z [Modules] Checking for host updates.
+2023-05-27T11:54:04.457Z [Modules] Host is up to date.
+2023-05-27T11:54:04.457Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T11:54:04.486Z [Modules] No module updates available.
+2023-05-27T14:19:00.288Z [Modules] Modules initializing
+2023-05-27T14:19:00.289Z [Modules] Distribution: remote
+2023-05-27T14:19:00.289Z [Modules] Host updates: enabled
+2023-05-27T14:19:00.289Z [Modules] Module updates: enabled
+2023-05-27T14:19:00.290Z [Modules] Module install path: /home/luh/.config/discordcanary/0.0.154/modules
+2023-05-27T14:19:00.290Z [Modules] Module installed file path: /home/luh/.config/discordcanary/0.0.154/modules/installed.json
+2023-05-27T14:19:00.290Z [Modules] Module download path: /home/luh/.config/discordcanary/0.0.154/modules/pending
+2023-05-27T14:19:00.483Z [Modules] No updates to install
+2023-05-27T14:19:00.484Z [Modules] Checking for host updates.
+2023-05-27T14:19:00.684Z [Modules] Host is up to date.
+2023-05-27T14:19:00.684Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T14:19:00.822Z [Modules] No module updates available.
+2023-05-27T14:19:03.779Z [Modules] Checking for host updates.
+2023-05-27T14:19:03.942Z [Modules] Host is up to date.
+2023-05-27T14:19:03.942Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T14:19:03.947Z [Modules] No module updates available.
+2023-05-27T14:20:57.700Z [Modules] Modules initializing
+2023-05-27T14:20:57.701Z [Modules] Distribution: remote
+2023-05-27T14:20:57.701Z [Modules] Host updates: enabled
+2023-05-27T14:20:57.701Z [Modules] Module updates: enabled
+2023-05-27T14:20:57.701Z [Modules] Module install path: /home/luh/.config/discordcanary/0.0.154/modules
+2023-05-27T14:20:57.701Z [Modules] Module installed file path: /home/luh/.config/discordcanary/0.0.154/modules/installed.json
+2023-05-27T14:20:57.701Z [Modules] Module download path: /home/luh/.config/discordcanary/0.0.154/modules/pending
+2023-05-27T14:20:57.890Z [Modules] No updates to install
+2023-05-27T14:20:57.892Z [Modules] Checking for host updates.
+2023-05-27T14:20:58.205Z [Modules] Host is up to date.
+2023-05-27T14:20:58.206Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T14:20:58.359Z [Modules] No module updates available.
+2023-05-27T14:21:00.631Z [Modules] Checking for host updates.
+2023-05-27T14:21:00.790Z [Modules] Host is up to date.
+2023-05-27T14:21:00.790Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T14:21:00.795Z [Modules] No module updates available.
+2023-05-27T15:21:00.634Z [Modules] Checking for host updates.
+2023-05-27T15:21:00.828Z [Modules] Host is up to date.
+2023-05-27T15:21:00.829Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T15:21:00.982Z [Modules] No module updates available.
+2023-05-27T16:21:00.635Z [Modules] Checking for host updates.
+2023-05-27T16:21:00.823Z [Modules] Host is up to date.
+2023-05-27T16:21:00.823Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T16:21:00.970Z [Modules] No module updates available.
+2023-05-27T17:21:00.635Z [Modules] Checking for host updates.
+2023-05-27T17:21:00.802Z [Modules] Host is up to date.
+2023-05-27T17:21:00.802Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T17:21:00.961Z [Modules] No module updates available.
+2023-05-27T18:21:00.637Z [Modules] Checking for host updates.
+2023-05-27T18:21:00.875Z [Modules] Host is up to date.
+2023-05-27T18:21:00.875Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T18:21:00.915Z [Modules] No module updates available.
+2023-05-27T19:21:00.641Z [Modules] Checking for host updates.
+2023-05-27T19:21:00.844Z [Modules] Host is up to date.
+2023-05-27T19:21:00.844Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T19:21:01.035Z [Modules] No module updates available.
+2023-05-27T20:21:00.635Z [Modules] Checking for host updates.
+2023-05-27T20:21:00.821Z [Modules] Host is up to date.
+2023-05-27T20:21:00.821Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T20:21:00.965Z [Modules] No module updates available.
+2023-05-27T21:21:00.638Z [Modules] Checking for host updates.
+2023-05-27T21:21:00.827Z [Modules] Host is up to date.
+2023-05-27T21:21:00.828Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T21:21:00.994Z [Modules] No module updates available.
+2023-05-27T22:21:00.634Z [Modules] Checking for host updates.
+2023-05-27T22:21:00.792Z [Modules] Host is up to date.
+2023-05-27T22:21:00.793Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T22:21:00.934Z [Modules] No module updates available.
+2023-05-27T23:21:00.634Z [Modules] Checking for host updates.
+2023-05-27T23:21:00.788Z [Modules] Host is up to date.
+2023-05-27T23:21:00.788Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-27T23:21:00.926Z [Modules] No module updates available.
+2023-05-28T00:21:00.635Z [Modules] Checking for host updates.
+2023-05-28T00:21:00.802Z [Modules] Host is up to date.
+2023-05-28T00:21:00.802Z [Modules] Checking for module updates at https://discord.com/api/modules/canary/versions.json
+2023-05-28T00:21:00.943Z [Modules] No module updates available.
